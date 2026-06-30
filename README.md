@@ -77,7 +77,7 @@ This analysis reviews the following key metrics:
 AOV decreased YoY for each quarter after the initial increase in 2020 the following two years. Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255). 
 
 
-<img width="920" height="205" alt="image" src="https://github.com/user-attachments/assets/824975af-7eed-43a9-8b61-5dbc6cc5805a" />
+<img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/66051a6c-aea5-4954-9442-0e4da9473dd3" />
 
 
 + New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
