@@ -112,6 +112,12 @@ The Apple iPhone was not ordered by a loyalty program customer during the four-y
 Customers on average took about 92 days to make their first order after creating an account. Affiliate marketing saw customers making their first order on average within 5 days. Direct marketing, closer to the overall average, saw about 89 days. Even though affiliate marketing only produced 3% of total sales, it is important to highlight the channel saw a significantly higher turnaround in customer acquisition from potential customer to account creation to first purchase. 
 78% of customers created their account on a desktop computer and 17% used the mobile app. 83% then made their orders using the website with 17% opting to use the mobile app instead.
 
+
+| Wider Left Side &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Narrow Right Side |
+| :--- | :--- |
+| Item A | Small note |
+| Item B | Small note |
+
 ## Recommendations 
 
 Recommendations for ScreenZone moving forward based on uncovered insights
