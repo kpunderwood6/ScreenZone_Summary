@@ -59,7 +59,7 @@ NA led regional performance averaging a 52% share of total sales each year from 
 All regions declined in total sales greater than 40% for 2022 except for North America which saw a 37% decline. AOV for all regions matched the total sales trend of sharp increase in 2020 and declined the following years. All regions saw an upward trend of order counts from 2019-2021 with a decrease in 2022.
 
 ### Product
-|<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />|<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+|<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />|<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
 |:---------:|:---------:
 
 The best performing product each year and overall was the 27in 4K Gaming Monitor with $9.8M in total sales and an AOV of $421.  The most popular and second-best performing product was the Apple Airpods Headphones with $7.7M in total sales with a $160 AOV and 3,964 order count. MacBook Air Laptop ranked third with $6.38M total sales with the highest AOV of $1,588. ThinkPad Laptop ranked fourth with $3.2M in total sales despite having the second highest AOV of $1100. The ThinkPad Laptop also showed more consistent growth of any product between February 2022 and October 2022. 
