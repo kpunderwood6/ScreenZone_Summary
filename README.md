@@ -54,7 +54,7 @@ This analysis reviews the following key metrics:
 ### Year over Year Trends 
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/7a43c65b-d29d-44ee-9e11-60ea0ee04e3e" />
 
 
 + From January 2019 to December 2022 total sales reached $28.1M with an average yearly sales revenue of $7M. 2020 saw a peak reaching the highest annual sales of $10.2M and highest average order value (AOV) of $300; however, 2021 saw the highest order count of 36K with an AOV of $254. The four-year period averaged 27K orders a year with an average order value of $260. 
@@ -68,7 +68,7 @@ This analysis reviews the following key metrics:
 ### Quarter over Quarter Trends
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/8b2fe89d-1b96-4adc-89e6-2f9aa2fa977f" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c6f09c35-d159-4e42-91c0-45982ba886b7" />
 
 
 + Highest performing quarter was Q4 2020 with $3M total sales while the lowest performing was two years later with Q4 2022 with $649K total sales. Each quarter of 2020 saw sales growth YoY with Q2 2020 returning the four-year period high of 212%, a $1.7M increase from Q2 2019. Each quarter for the remaining two-year period saw decreasing sales growth YoY except for Q1 2021. Q4 2022 saw the highest decrease in YoY sales growth of 72%, a $1.6M decline, and had the overall lowest total sales of all quarters. This was an unusual dip given Q4 previously performed well when compared to other quarters in the same year. 
@@ -77,7 +77,7 @@ This analysis reviews the following key metrics:
 AOV decreased YoY for each quarter after the initial increase in 2020 the following two years. Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255). 
 
 
-<img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/66051a6c-aea5-4954-9442-0e4da9473dd3" />
+<img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/fd9a0a5a-0336-4c53-9da9-fe218293d6e1" />
 
 
 + New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
