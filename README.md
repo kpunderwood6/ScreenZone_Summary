@@ -110,7 +110,7 @@ These increases resulted from variable sales for the top 4 performing products w
 ## Product Performance
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/99212379-bdc7-4238-bf0e-e72c00bc2339" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/58dd8a9d-064e-41ef-9fa9-f97f9ffdbee8" />
 
 
 + 27in 4K Gaming Monitor was the best performing product each year with $9.8M in total sales and an AOV of $421.  
