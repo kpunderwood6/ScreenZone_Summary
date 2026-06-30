@@ -1,7 +1,7 @@
 <img width="1350" height="600" alt="Backgrounds (3)" src="https://github.com/user-attachments/assets/aa2185e0-f0d8-4871-bf67-206c160cc936" />
 
 # E-commerce Performance Report
-
+##### test
 ## Client Profile
 
 ScreenZone is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
@@ -28,7 +28,7 @@ Acquisition & Retention:  An assessment of the customer acquisition (account cre
  
 ### Sales Trends
 
- <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
 
 #### Annual
 
