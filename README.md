@@ -158,7 +158,8 @@ These increases resulted from variable sales for the top 4 performing products w
 	
 </div>
 
-<img width="1026" height="523" alt="image" src="https://github.com/user-attachments/assets/f8b404c7-2297-4d54-ad7a-7150b279acea" />
+<img width="1026" height="461" alt="image" src="https://github.com/user-attachments/assets/b0ca4443-65c3-4dfd-9fcc-7fbbf5cad906" />
+
 
 + Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined every year after 2020.
 + AOV growth for loyalty program customers saw a 2% decrease from $249 in 2021 to $245 in 2022, whereas non-members saw an 18% decrease in AOV from $261 to $214.
