@@ -10,6 +10,7 @@
 	
 ## Client Profile
 </div>
+
 **ScreenZone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
  
 From 2019-2022, the company amassed over $28 million is sales from 87K customers. The current data spans multiple measures and dimensions including sales, product performance, account acquisition, marketing, operations, and customer loyalty. 
@@ -19,20 +20,22 @@ From 2019-2022, the company amassed over $28 million is sales from 87K customers
 ## NorthStar Metrics 
 
 </div>
+
 An in-depth analysis was completed to determine **ScreenZone's** performance and gather insights for multiple teams to make strategic decisions, change course if needed, and build on any strong, consistent indicators. 
+
 This analysis reviews the following key metrics:
  
-__Sales Trends: Analyzed sales revenue, total number of orders, and average order value.__
++ __Sales Trends: Analyzed sales revenue, total number of orders, and average order value.__
  
-__Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
++ __Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
 
-__Product Performance: Product performance with return rate analysis to optimize product offerings.__ 
++ __Product Performance: Product performance with return rate analysis to optimize product offerings.__ 
  
-__Marketing Analyses: Evaluated current marketing channels.__
++ __Marketing Analyses: Evaluated current marketing channels.__
  
-__Loyalty Program: Loyalty program performance.__
++ __Loyalty Program: Loyalty program performance.__
 
-__Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).__
++ __Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).__
 
 <div align="center">
 	
