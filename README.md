@@ -31,9 +31,9 @@ This analysis reviews the following key metrics:
  
 + __Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
 
-+ __Product Performance: Product performance with return rate analysis to optimize product offerings.__ 
++ __Product Performance: Determined best performing products to optimize product line with return rate analysis.__ 
  
-+ __Marketing Analyses: Evaluated current marketing channels.__
++ __Marketing Analyses: Evaluated current marketing channels to steer new development.__
  
 + __Loyalty Program: Loyalty program performance.__
 
