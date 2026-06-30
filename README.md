@@ -44,6 +44,7 @@ AOV decreased YoY for each quarter after the initial increase in 2020 the follow
 
 <img width="920" height="205" alt="image" src="https://github.com/user-attachments/assets/824975af-7eed-43a9-8b61-5dbc6cc5805a" />
 
+
 New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
 
 ### Monthly
