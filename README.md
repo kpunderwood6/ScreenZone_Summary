@@ -1,4 +1,4 @@
-<kbd>
+
 <img width="1350" height="600" alt="Backgrounds (4)" src="https://github.com/user-attachments/assets/f91f0d73-8584-4760-bfa6-abf3c384e72d" />
 
 
@@ -52,15 +52,17 @@ This analysis reviews the following key metrics:
 ### Year over Year Trends 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
 
+
 + From January 2019 to December 2022 total sales reached $28.1M with an average yearly sales revenue of $7M. 2020 saw a peak reaching the highest annual sales of $10.2M and highest average order value (AOV) of $300; however, 2021 saw the highest order count of 36K with an AOV of $254. The four-year period averaged 27K orders a year with an average order value of $260. 
 		
 + Total sales grew 163% from 3.8M in 2019 to 10.2M in 2020. 2021 decreased 10% over 2019, a $1M contraction. Total sales continued to decline by 46% YoY in 2022, $4.1M lower than 2021. Average order value mirrored the 2020 total sales sharp increase and continued decrease the following two years.  
 
 + The surge in sales due to COVID pandemic was not sustained and sales returned to pre-COVID sales by 2022; however, the 2022 total sales amount was greater than the 2019 total sales amount by $1M. The average order value for 2019 and 2022 were both around $230, but 2022 saw a 4K order count increase. Ultimately this decline should be attributed to returning to a more normal baseline and not low performance.
 
-### Quarter orver Quarter Trends
+### Quarter over Quarter Trends
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/8b2fe89d-1b96-4adc-89e6-2f9aa2fa977f" />
+
 
 + Highest performing quarter was Q4 2020 with $3M total sales while the lowest performing was two years later with Q4 2022 with $649K total sales. Each quarter of 2020 saw sales growth YoY with Q2 2020 returning the four-year period high of 212%, a $1.7M increase from Q2 2019. Each quarter for the remaining two-year period saw decreasing sales growth YoY except for Q1 2021. Q4 2022 saw the highest decrease in YoY sales growth of 72%, a $1.6M decline, and had the overall lowest total sales of all quarters. This was an unusual dip given Q4 previously performed well when compared to other quarters in the same year. 
 
@@ -68,6 +70,7 @@ This analysis reviews the following key metrics:
 AOV decreased YoY for each quarter after the initial increase in 2020 the following two years. Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255). 
 
 <img width="920" height="205" alt="image" src="https://github.com/user-attachments/assets/824975af-7eed-43a9-8b61-5dbc6cc5805a" />
+
 
 + New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
 
@@ -85,8 +88,8 @@ These increases resulted from variable sales for the top 4 performing products w
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/b31e2bdc-beed-496d-b426-900a27561e7d" />
 
+
 + NA led regional performance averaging a 52% share of total sales each year from 2019 to 2022 solidifying itself as the anchor of regional sales. NA total sales were $15M with an average order value of $260.
-  
 + EMEA ranked second averaging 29% share of total sales each year. APAC ranked third averaging a 13% share of total sales each year; however, APAC had the highest AOV of $279 with a peak of $317 during 2020.
 + LATAM was the lowest performing year averaging a 6% share of total sales each year from 2019 to 2022. LATAM total sales were $1.6M with an average order value of $231.
 + All regions declined in total sales greater than 40% for 2022 except for North America which saw a 37% decline. AOV for all regions matched the total sales trend of sharp increase in 2020 and declined the following years. All regions saw an upward trend of order counts from 2019-2021 with a decrease in 2022.
@@ -98,6 +101,7 @@ These increases resulted from variable sales for the top 4 performing products w
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />
 
+
 + 27in 4K Gaming Monitor was the best performing product each year with $9.8M in total sales and an AOV of $421.  
 + Apple Airpods Headphones was the most popular and second-best performing product with $7.7M in total sales with a $160 AOV and 3,964 order count.
 + MacBook Air Laptop ranked third with $6.38M total sales with the highest AOV of $1,588.
@@ -106,11 +110,13 @@ These increases resulted from variable sales for the top 4 performing products w
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
 
+
 + Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. 
-+ Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with 0 orders in 2019. The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones.
++ Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with 0 orders in 2019. The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones. Total sales seemed unusually low for an Apple product in an electronics product line.
 + The Samsung Webcam outperformed the Apple iPhone even with 0 orders in 2019 and a $50 AOV.
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c8dc4dca-3ec9-4b93-bf23-a1eb53208d73" />
+
 
 + The return rate for the four-year period was about 5%. 2020 had the highest return rate of 9%, and the return rate for 2022 was 0%. 
 + MacBook Air Laptop and the ThinkPad Laptop were consistently the top two most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place.
@@ -125,6 +131,7 @@ These increases resulted from variable sales for the top 4 performing products w
 
 <img width="1270" height="389" alt="image" src="https://github.com/user-attachments/assets/a32fba58-4534-43c3-9e69-f03a2f838c6c" />
 
+
 + Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%. 
 + Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers. 
 + Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%. 
@@ -136,6 +143,7 @@ These increases resulted from variable sales for the top 4 performing products w
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/574fd29f-46f2-4077-8bd2-016693085357" />
+
 
 + Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined ever year after 2020.
 + AOV growth for loyalty program customers saw a 2% decrease from $249 in 2021 to $245 in 2022, whereas non-members saw an 18% decrease in AOV from $261 to $214.
@@ -180,16 +188,15 @@ Recommendations for ScreenZone moving forward based on uncovered insights.
 + Highlight the top four performing products in promotional campaigns every holiday season as they consistently see increased growth every November and December in all regions.
 + 27in 4K Gaming Monitor performed particularly well each September. Shift focus to heavily market this product during the Back-to-School Season and ensure product placement is always prominent on the website.
 + Bose Headphones and Samsung Webcam are prime candidates for product bundles and add-on deals at customer checkout. These products could be used to test these strategies and if unsuccessful consider not restocking these products due to consistently low sales.
-+ Product team should research if the Apple iPhone product stock was irrelevant compared to other online retailers. The total sales seem unusually low as an Apple product in an electronics product line.
-+ Confirm 0% return rate was correct for 2020.
++ Product team should research if the Apple iPhone product stock was irrelevant compared to other online retailers. 
++ Confirm with Account Operations the 0% return rate for 202 was correct.
 
 ### Loyalty Program
 
 + The loyalty program should remain and receive continued investment as it saw high growth in its first two years and in the last two years loyalty members spent more money than non-loyalty members which reduced the severity of 2022 sales decline.
 + Prioritize converting repeat customers into loyalty members. Loyalty members spend more and repeat customers are already engaged which means converting more non-members into the program is a low risk action with a likely high ROI.
 
-<kbd>
-
 ### Platform
 
 + The website and desktop experience are the primary focus, but the mobile app conversion should not be neglected as it's a growth opportunity. Develop further marketing strategies for the mobile app to advertise the loyalty program and app specific deals.
+
