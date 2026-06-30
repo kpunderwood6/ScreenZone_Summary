@@ -16,7 +16,7 @@ Sales Trends: Analyzed sales revenue, total number of orders, and average order 
  
 Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential. 
 
-Product Performance: Product performance with refund rate analysis to optimize product offerings. 
+Product Performance: Product performance with return rate analysis to optimize product offerings. 
  
 Marketing Analyses: Evaluated current marketing channels. 
  
@@ -55,27 +55,31 @@ Sales increased MoM from October to November and from November to December every
 MoM AOV saw less severe fluctuation from year to year with no standout pattern emerging. When compared to MoM total sales and MoM order count, it potentially means customers who were shopping during seasonal lulls were still purchasing higher priced items. 
 
 ### Region
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/b31e2bdc-beed-496d-b426-900a27561e7d" />
 NA led regional performance averaging a 52% share of total sales each year from 2019 to 2022 solidifying itself as the anchor of regional sales. NA total sales were $15M with an average order value of $260. EMEA ranked second averaging 29% share of total sales each year. APAC ranked third averaging a 13% share of total sales each year; however, APAC had the highest AOV of $279 with a peak of $317 during 2020.  LATAM was the lowest performing year averaging a 6% share of total sales each year from 2019 to 2022. LATAM total sales were $1.6M with an average order value of $231. 
 All regions declined in total sales greater than 40% for 2022 except for North America which saw a 37% decline. AOV for all regions matched the total sales trend of sharp increase in 2020 and declined the following years. All regions saw an upward trend of order counts from 2019-2021 with a decrease in 2022.
 
 ### Product
-|<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />|<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
-|:---------:|:---------:
 
+<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />
 The best performing product each year and overall was the 27in 4K Gaming Monitor with $9.8M in total sales and an AOV of $421.  The most popular and second-best performing product was the Apple Airpods Headphones with $7.7M in total sales with a $160 AOV and 3,964 order count. MacBook Air Laptop ranked third with $6.38M total sales with the highest AOV of $1,588. ThinkPad Laptop ranked fourth with $3.2M in total sales despite having the second highest AOV of $1100. The ThinkPad Laptop also showed more consistent growth of any product between February 2022 and October 2022. 
 
+<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
 The Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. The Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with zero orders in 2019. The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones. The Samsung Webcam outperformed the Apple iPhone with zero orders in 2019 and a $50 AOV. 
 From 2020 to 2021, total sales and AOV decreased, but order count increased. Total Sales for high price items decreased: MacBook Air Laptop by 35% and ThinkPad Laptop by 20%, but there was a 134% increase for the lower priced Samsung Webcam. This explains the decreased AOV. 
 
-The refund rate for the four-year period was about 5%. 2020 had the highest refund rate of 9%, and the refund rate for 2022 was 0%. The MacBook Air Laptop and the ThinkPad Laptop were consistently the top two most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place. The MacBook Air Laptop had the highest product refund rate of 18% in 2019, but each year it decreased. Samsung Charging Cable Pack had an overall refund rate of 1%. The Apple iPhone and Apple Airpods Headphones saw close refund rates except for 2019, which may mean customers returning a phone also returned headphones. 
+<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+The return rate for the four-year period was about 5%. 2020 had the highest return rate of 9%, and the return rate for 2022 was 0%. The MacBook Air Laptop and the ThinkPad Laptop were consistently the top two most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place. The MacBook Air Laptop had the highest product return rate of 18% in 2019, but each year it decreased. Samsung Charging Cable Pack had an overall return rate of 1%. The Apple iPhone and Apple Airpods Headphones saw close return rates except for 2019, which may mean customers returning a phone also returned headphones. 
 
 ### Marketing
 
-|Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.| |
-|Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers.| | 
-|Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%.| |
+|Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.|<img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/7dbfd4cc-c5cc-48d1-8329-cb1f9f1d032d" />|
+
+Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers.
+Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%.
 
 ### Loyalty Program 
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/b31e2bdc-beed-496d-b426-900a27561e7d" />
 Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined ever year after 2020. AOV growth for loyalty program customers saw a 2% decrease from $249 in 2021 to $245 in 2022, whereas non-members saw an 18% decrease in AOV from $261 to $214. Ultimately, Loyalty program members outspent non loyalty members by $609K in 2021 and $480K in 2022. 
 20% of customers made at least 2 different orders. Within that repeat customer rate, only 35% are currently loyalty program members.
 The Apple iPhone was not ordered by a loyalty program customer during the four-year period. 
@@ -104,6 +108,8 @@ Social media marketing plans can be deprioritized or the current approach should
 
 ### Regions
 
+
+
 APAC has untapped potential as customers tended to buy higher priced products. APAC is also perfect to test budling products and shifting advertising to focus on higher priced products. 
 
 NA must take precedence when considering new products, prioritizing inventory, and determining the marketing budget as it is the core of the business. 
@@ -124,7 +130,7 @@ Bose Headphones and Samsung Webcam are prime candidates for product bundles and 
 
 Product team should research if the Apple iPhone product stock was irrelevant compared to other online retailers. The total sales seem unusually low as an Apple product in an electronics product line. 
 
-Confirm 0% refund rate was correct for 2020.
+Confirm 0% return rate was correct for 2020.
 
 ### Loyalty Program
 
