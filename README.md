@@ -25,10 +25,10 @@ Loyalty Program: Loyalty program performance.
 Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).
  
 ## Executive Summary
- 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
 
 ### Annual
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
+
 
 From January 2019 to December 2022 total sales reached $28.1M with an average yearly sales revenue of $7M. 2020 saw a peak reaching the highest annual sales of $10.2M and highest average order value (AOV) of $300; however, 2021 saw the highest order count of 36K with an AOV of $254. The four-year period averaged 27K orders a year with an average order value of $260. 
 		
@@ -36,14 +36,15 @@ Total sales grew 163% from 3.8M in 2019 to 10.2M in 2020. 2021 decreased 10% ove
 The surge in sales due to COVID pandemic was not sustained and sales returned to pre-COVID sales by 2022; however, the 2022 total sales amount was greater than the 2019 total sales amount by $1M. The average order value for 2019 and 2022 were both around $230, but 2022 saw a 4K order count increase. Ultimately this decline should be attributed to returning to a more normal baseline and not low performance.
 
 ### Quarterly
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/8b2fe89d-1b96-4adc-89e6-2f9aa2fa977f" />
 
 Highest performing quarter was Q4 2020 with $3M total sales while the lowest performing was two years later with Q4 2022 with $649K total sales. Each quarter of 2020 saw sales growth YoY with Q2 2020 returning the four-year period high of 212%, a $1.7M increase from Q2 2019. Each quarter for the remaining two-year period saw decreasing sales growth YoY except for Q1 2021. Q4 2022 saw the highest decrease in YoY sales growth of 72%, a $1.6M decline, and had the overall lowest total sales of all quarters. This was an unusual dip given Q4 previously performed well when compared to other quarters in the same year. 
 Q1 to Q2 QoQ sales growth decreased every year except for a 2020 53% increase. Q2 to Q3 saw QoQ sales growth every year except 2022, which saw an 8% decrease. Q3 to Q4 saw increases in 2019 and 2022, but saw a 1% decrease in 2021 and a 48% in 2022. The momentum of increased spending in Q2 to Q3 and Q3 to Q4 demonstrated customers seasonal spending most likely attributed to Back to School and Holiday Seasons. 
 AOV decreased YoY for each quarter after the initial increase in 2020 the following two years. Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255). 
 
-Graph here
-New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
+<img width="920" height="205" alt="image" src="https://github.com/user-attachments/assets/824975af-7eed-43a9-8b61-5dbc6cc5805a" />
 
+New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
 
 ### Monthly
 
@@ -57,6 +58,9 @@ NA led regional performance averaging a 52% share of total sales each year from 
 All regions declined in total sales greater than 40% for 2022 except for North America which saw a 37% decline. AOV for all regions matched the total sales trend of sharp increase in 2020 and declined the following years. All regions saw an upward trend of order counts from 2019-2021 with a decrease in 2022.
 
 ### Product
+|<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />|<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+|:---------:|:---------:
+
 The best performing product each year and overall was the 27in 4K Gaming Monitor with $9.8M in total sales and an AOV of $421.  The most popular and second-best performing product was the Apple Airpods Headphones with $7.7M in total sales with a $160 AOV and 3,964 order count. MacBook Air Laptop ranked third with $6.38M total sales with the highest AOV of $1,588. ThinkPad Laptop ranked fourth with $3.2M in total sales despite having the second highest AOV of $1100. The ThinkPad Laptop also showed more consistent growth of any product between February 2022 and October 2022. 
 
 The Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. The Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with zero orders in 2019. The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones. The Samsung Webcam outperformed the Apple iPhone with zero orders in 2019 and a $50 AOV. 
@@ -65,9 +69,10 @@ From 2020 to 2021, total sales and AOV decreased, but order count increased. Tot
 The refund rate for the four-year period was about 5%. 2020 had the highest refund rate of 9%, and the refund rate for 2022 was 0%. The MacBook Air Laptop and the ThinkPad Laptop were consistently the top two most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place. The MacBook Air Laptop had the highest product refund rate of 18% in 2019, but each year it decreased. Samsung Charging Cable Pack had an overall refund rate of 1%. The Apple iPhone and Apple Airpods Headphones saw close refund rates except for 2019, which may mean customers returning a phone also returned headphones. 
 
 ### Marketing
-Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.
-Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers. 
-Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%.
+
+|Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.| |
+|Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers.| | 
+|Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%.| |
 
 ### Loyalty Program 
 Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined ever year after 2020. AOV growth for loyalty program customers saw a 2% decrease from $249 in 2021 to $245 in 2022, whereas non-members saw an 18% decrease in AOV from $261 to $214. Ultimately, Loyalty program members outspent non loyalty members by $609K in 2021 and $480K in 2022. 
