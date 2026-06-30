@@ -99,7 +99,7 @@ These increases resulted from variable sales for the top 4 performing products w
 ## Regional Results
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/b31e2bdc-beed-496d-b426-900a27561e7d" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/0d06fdb1-c41c-4d10-9ed3-7e8d4a7f7980" />
 
 
 + NA led regional performance averaging a 52% share of total sales each year from 2019 to 2022 solidifying itself as the anchor of regional sales. NA total sales were $15M with an average order value of $260.
