@@ -15,7 +15,7 @@
 
 **Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
  
-From 2019-2022, the company amassed over $28 million is sales from 87K customers. The current data spans multiple measures and dimensions including sales, product performance, account acquisition, marketing, operations, and customer loyalty. 
+From 2019-2022, the company amassed over $28M in sales from 87K customers. The current data spans multiple measures and dimensions including price, products, account acquisition, marketing, operations, and customer loyalty. 
 
 <div align="center">
 	
