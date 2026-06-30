@@ -46,7 +46,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-### YOY Sales Trends 
+### Year over Year Sales Trends 
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/7a43c65b-d29d-44ee-9e11-60ea0ee04e3e" />
@@ -60,7 +60,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-### QoQ Sales Trends
+### Quarter over Quarter Sales Trends
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c6f09c35-d159-4e42-91c0-45982ba886b7" />
@@ -79,7 +79,7 @@ AOV decreased YoY for each quarter after the initial increase in 2020 the follow
 
 <div align="center">
 	
-### MoM Sales Trends
+### Month over Month Sales Trends
 
 </div>
 
