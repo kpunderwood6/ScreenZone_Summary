@@ -41,7 +41,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-## Executive Summary
+# Executive Summary
 </div>
 
 <div align="center">
