@@ -1,3 +1,4 @@
+<kbd>
 <img width="1350" height="600" alt="Backgrounds (4)" src="https://github.com/user-attachments/assets/f91f0d73-8584-4760-bfa6-abf3c384e72d" />
 
 
@@ -185,7 +186,9 @@ Recommendations for ScreenZone moving forward based on uncovered insights.
 ### Loyalty Program
 
 + The loyalty program should remain and receive continued investment as it saw high growth in its first two years and in the last two years loyalty members spent more money than non-loyalty members which reduced the severity of 2022 sales decline.
-+ Prioritize converting repeat customers into loyalty members. Loyalty members spend more and repeat customers are already engaged which means converting more non-members into the program is a low risk action with a likely high ROI. 
++ Prioritize converting repeat customers into loyalty members. Loyalty members spend more and repeat customers are already engaged which means converting more non-members into the program is a low risk action with a likely high ROI.
+
+<kbd>
 
 ### Platform
 
