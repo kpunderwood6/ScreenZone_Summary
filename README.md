@@ -15,7 +15,7 @@
 
 **Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
  
-From 2019-2022, the company amassed over $28M in sales from 87K customers. The current data spans multiple measures and dimensions including price, products, account acquisition, marketing, operations, and customer loyalty. 
+From 2019 to 2022, the company amassed over $28M in sales from 87K customers. The current data spans multiple measures and dimensions including price, products, account details, marketing, operations, and customer loyalty. 
 
 <div align="center">
 	
@@ -51,7 +51,7 @@ This analysis reviews the following key metrics:
 	
 + Total sales grew 163% from 3.8M in 2019 to 10.2M in 2020. 2021 decreased 10% over 2019, a $1M contraction. Total sales continued to decline by 46% YoY in 2022, $4.1M lower than 2021. Average order value mirrored the 2020 total sales sharp increase and continued decrease the following two years.  
 
-+ The surge in sales due to COVID pandemic was not sustained and sales returned to pre-COVID sales by 2022; however, the 2022 total sales amount was greater than the 2019 total sales amount by $1M. The average order value for 2019 and 2022 were both around $230, but 2022 saw a 4K order count increase. Ultimately this decline should be attributed to returning to a more normal baseline and not low performance.
++ The surge in sales due to COVID pandemic was not sustained and sales returned to pre-COVID sales by 2022; however, 2022 total sales were greater than 2019 total sales by $1M. AOV for 2019 and 2022 were both around $230, but 2022 saw a 4K order count increase. Ultimately, the decline should not be framed entirely as low peformance, but also a return to a more normal baseline.
 
 <div align="center">
 	
