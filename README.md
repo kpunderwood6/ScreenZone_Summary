@@ -46,12 +46,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-## Sales Trends 
-</div>
-
-<div align="center">
-	
-### Year over Year Trends 
+### YOY Sales Trends 
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/7a43c65b-d29d-44ee-9e11-60ea0ee04e3e" />
@@ -65,7 +60,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-### Quarter over Quarter Trends
+### QoQ Sales Trends
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c6f09c35-d159-4e42-91c0-45982ba886b7" />
@@ -84,7 +79,7 @@ AOV decreased YoY for each quarter after the initial increase in 2020 the follow
 
 <div align="center">
 	
-### Month over Month Trends
+### MoM Sales Trends
 
 </div>
 
@@ -113,7 +108,7 @@ These increases resulted from variable sales for the top 4 performing products w
 ## Product Performance
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />
+<img width="1025" height="648" alt="image" src="https://github.com/user-attachments/assets/c4809a58-d9b0-426a-bf55-f091a54aa109" />
 
 
 + 27in 4K Gaming Monitor was the best performing product each year with $9.8M in total sales and an AOV of $421.  
@@ -142,11 +137,11 @@ These increases resulted from variable sales for the top 4 performing products w
 
 <div align="center">
 	
-## Marketing
+## Marketing Performance
 </div>
 
 
-<img width="1270" height="389" alt="image" src="https://github.com/user-attachments/assets/a32fba58-4534-43c3-9e69-f03a2f838c6c" />
+<img width="1271" height="391" alt="image" src="https://github.com/user-attachments/assets/2fe4cc35-8185-41a2-9669-ba28c7f89f00" />
 
 
 + Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%. 
@@ -160,7 +155,7 @@ These increases resulted from variable sales for the top 4 performing products w
 	
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/574fd29f-46f2-4077-8bd2-016693085357" />
+<img width="1026" height="649" alt="image" src="https://github.com/user-attachments/assets/2a2e5892-18c1-4e3f-9f55-b1345029c69d" />
 
 
 + Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined ever year after 2020.
