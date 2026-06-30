@@ -108,7 +108,7 @@ These increases resulted from variable sales for the top 4 performing products w
 ## Product Performance
 </div>
 
-<img width="1025" height="648" alt="image" src="https://github.com/user-attachments/assets/c4809a58-d9b0-426a-bf55-f091a54aa109" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/99212379-bdc7-4238-bf0e-e72c00bc2339" />
 
 
 + 27in 4K Gaming Monitor was the best performing product each year with $9.8M in total sales and an AOV of $421.  
@@ -118,7 +118,7 @@ These increases resulted from variable sales for the top 4 performing products w
 + From 2020 to 2021, total sales and AOV decreased, but order count increased. Total Sales for high price items decreased: MacBook Air Laptop by 35% and ThinkPad Laptop by 20%, but there was a 134% increase for the lower priced Samsung Webcam. This explains the decreased AOV.  
 
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+<img width="1025" height="648" alt="image" src="https://github.com/user-attachments/assets/b8a8c7ea-152a-4a16-8056-85ebbe2c869e" />
 
 
 + Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. 
@@ -126,7 +126,7 @@ These increases resulted from variable sales for the top 4 performing products w
 + The Samsung Webcam outperformed the Apple iPhone even with 0 orders in 2019 and a $50 AOV.
 
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c8dc4dca-3ec9-4b93-bf23-a1eb53208d73" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/86df0451-69ca-45e8-8c97-0d1229131a1e" />
 
 
 + The return rate for the four-year period was about 5%. 2020 had the highest return rate of 9%, and the return rate for 2022 was 0%. 
