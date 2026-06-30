@@ -93,11 +93,9 @@ The return rate for the four-year period was about 5%. 2020 had the highest retu
 
 ### Marketing
 
-<img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/248525d9-a8b2-4cd0-833d-7e2d20a932cc" />
-
-Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.
-Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers.
-Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%.
+| Wider Left Side &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Narrow Right Side |
+| :--------- | :--- |
+| <img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/248525d9-a8b2-4cd0-833d-7e2d20a932cc" /> | +Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%. +Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers. +Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%. |
 
 ### Loyalty Program 
 
@@ -113,10 +111,6 @@ Customers on average took about 92 days to make their first order after creating
 78% of customers created their account on a desktop computer and 17% used the mobile app. 83% then made their orders using the website with 17% opting to use the mobile app instead.
 
 
-| Wider Left Side &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Narrow Right Side |
-| :------ | :--- |
-| Item A | Small note |
-| Item B | Small note |
 
 ## Recommendations 
 
