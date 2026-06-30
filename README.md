@@ -9,34 +9,35 @@
 <div align="center">
 	
 ## Client Profile
-
 </div>
-
 **ScreenZone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
  
 From 2019-2022, the company amassed over $28 million is sales from 87K customers. The current data spans multiple measures and dimensions including sales, product performance, account acquisition, marketing, operations, and customer loyalty. 
 
+<div align="center">
+	
 ## NorthStar Metrics 
 
+</div>
 An in-depth analysis was completed to determine **ScreenZone's** performance and gather insights for multiple teams to make strategic decisions, change course if needed, and build on any strong, consistent indicators. 
-
 This analysis reviews the following key metrics:
  
-	__Sales Trends: Analyzed sales revenue, total number of orders, and average order value.__
+__Sales Trends: Analyzed sales revenue, total number of orders, and average order value.__
  
-	Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential. 
+__Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
 
-	Product Performance: Product performance with return rate analysis to optimize product offerings. 
+__Product Performance: Product performance with return rate analysis to optimize product offerings.__ 
  
-	Marketing Analyses: Evaluated current marketing channels. 
+__Marketing Analyses: Evaluated current marketing channels.__
  
-	Loyalty Program: Loyalty program performance.
+__Loyalty Program: Loyalty program performance.__
 
-	**Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).**
- 
+__Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).__
+
+<div align="center">
+	
 ## Executive Summary
-
-### Annual
+</div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
 
@@ -63,6 +64,7 @@ Monthly sales ranged from $178K to $1.3M. Sales declined MoM from September to O
 These increases resulted from variable sales for the top 4 performing products with two having the highest AOVs. From January 2020 to February 2020, sales for the 27in 4K Gaming Monitor and Apple Airpods Headphones decreased by $28K, but sales for the MacBook Air Laptop and ThinkPad Laptop increased by $44K. Products with large AOVs can dramatically change revenue MoM. 
 Sales increased MoM from October to November and from November to December every year. A 35% increase, $108K, from October 2019 to November 2019, was the second largest MoM increase.  The largest MoM increase was 50% from February 2020 to March 2020, a $250K increase corresponding with the COVID pandemic. 
 MoM AOV saw less severe fluctuation from year to year with no standout pattern emerging. When compared to MoM total sales and MoM order count, it potentially means customers who were shopping during seasonal lulls were still purchasing higher priced items. 
+
 
 ### Region
 
