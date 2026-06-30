@@ -61,19 +61,22 @@ All regions declined in total sales greater than 40% for 2022 except for North A
 
 ### Product
 
-<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />
+
 The best performing product each year and overall was the 27in 4K Gaming Monitor with $9.8M in total sales and an AOV of $421.  The most popular and second-best performing product was the Apple Airpods Headphones with $7.7M in total sales with a $160 AOV and 3,964 order count. MacBook Air Laptop ranked third with $6.38M total sales with the highest AOV of $1,588. ThinkPad Laptop ranked fourth with $3.2M in total sales despite having the second highest AOV of $1100. The ThinkPad Laptop also showed more consistent growth of any product between February 2022 and October 2022. 
 
-<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+
 The Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. The Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with zero orders in 2019. The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones. The Samsung Webcam outperformed the Apple iPhone with zero orders in 2019 and a $50 AOV. 
 From 2020 to 2021, total sales and AOV decreased, but order count increased. Total Sales for high price items decreased: MacBook Air Laptop by 35% and ThinkPad Laptop by 20%, but there was a 134% increase for the lower priced Samsung Webcam. This explains the decreased AOV. 
 
-<img width="800" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
+<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c8dc4dca-3ec9-4b93-bf23-a1eb53208d73" />
 The return rate for the four-year period was about 5%. 2020 had the highest return rate of 9%, and the return rate for 2022 was 0%. The MacBook Air Laptop and the ThinkPad Laptop were consistently the top two most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place. The MacBook Air Laptop had the highest product return rate of 18% in 2019, but each year it decreased. Samsung Charging Cable Pack had an overall return rate of 1%. The Apple iPhone and Apple Airpods Headphones saw close return rates except for 2019, which may mean customers returning a phone also returned headphones. 
 
 ### Marketing
 
-|Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.|<img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/7dbfd4cc-c5cc-48d1-8329-cb1f9f1d032d" />|
+|Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%.|<img width="480" height="469" alt="image" src="https://github.com/user-attachments/assets/248525d9-a8b2-4cd0-833d-7e2d20a932cc" />|
+|:---------:|:---------:|
 
 Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers.
 Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%.
