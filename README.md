@@ -1,15 +1,15 @@
 # ScreenZone_Summary
 Sales trend analysis for e-commerce company. 
 
-#Ecommerce Performance Analysis
+# E-commerce Performance Analysis
 
-##Client Profile
+## Client Profile
 
 ScreenZone is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
  
 From 2019-2022, the company amassed over $28 million is sales from 87K customers. The current data spans multiple measures and dimensions including sales, product performance, account acquisition, marketing, operations, and customer loyalty. 
 
-##NorthStar Metrics 
+## NorthStar Metrics 
 
 An in-depth analysis was completed to determine ScreenZone's performance and gather insights for multiple teams to make strategic decisions, change course if needed, and build on any strong, consistent indicators. This analysis reviews the following key metrics:
  
