@@ -28,15 +28,10 @@ An in-depth analysis was completed to determine **Screen Zone's** performance an
 This analysis reviews the following key metrics:
  
 + __Sales Trends: Analyzed sales revenue, total number of orders, and average order value.__
- 
 + __Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
-
 + __Product Performance: Determined best performing products to optimize product line with return rate analysis.__ 
- 
 + __Marketing Analyses: Evaluated current marketing channels to steer new development.__
- 
 + __Loyalty Program: Loyalty program performance.__
-
 + __Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).__
 
 <div align="center">
