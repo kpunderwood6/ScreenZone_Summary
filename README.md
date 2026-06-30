@@ -159,7 +159,7 @@ These increases resulted from variable sales for the top 4 performing products w
 + Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined every year after 2020.
 + AOV growth for loyalty program customers saw a 2% decrease from $249 in 2021 to $245 in 2022, whereas non-members saw an 18% decrease in AOV from $261 to $214.
 + Ultimately, Loyalty program members outspent non loyalty members by $609K in 2021 and $480K in 2022.
-+ 20% of customers had at least 2 different orders. Within this repeat customer rate, only 35% were loyalty program members.
++ Only 35% of repeat customers were loyalty program members.
 + The Apple iPhone was not ordered by a loyalty program customer during the entire four-year period. 
 
 <div align="center">
@@ -168,6 +168,7 @@ These increases resulted from variable sales for the top 4 performing products w
 </div>
 
 + Customers on average took about 92 days to make their first order after creating an account. Affiliate marketing saw customers making their first order on average within 5 days. Direct marketing, closer to the overall average, saw about 89 days. Even though affiliate marketing only produced 3% of total sales, it is important to highlight the channel saw a significantly higher turnaround in customer acquisition from potential customer to account creation to first purchase.
++ Repeat Customer rate was 20%.
 + 78% of customers created their account on a desktop computer and 17% used the mobile app. 83% then made their orders using the website with 17% opting to use the mobile app instead.
 
 <div align="center">
