@@ -114,7 +114,7 @@ Customers on average took about 92 days to make their first order after creating
 
 
 | Wider Left Side &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Narrow Right Side |
-| :--- | :--- |
+| :------ | :--- |
 | Item A | Small note |
 | Item B | Small note |
 
