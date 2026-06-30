@@ -49,7 +49,11 @@ This analysis reviews the following key metrics:
 ## Sales Trends 
 </div>
 
+<div align="center">
+	
 ### Year over Year Trends 
+</div>
+
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/2ec0460b-9f9a-4188-9002-5eb68c102be4" />
 
 
@@ -59,7 +63,10 @@ This analysis reviews the following key metrics:
 
 + The surge in sales due to COVID pandemic was not sustained and sales returned to pre-COVID sales by 2022; however, the 2022 total sales amount was greater than the 2019 total sales amount by $1M. The average order value for 2019 and 2022 were both around $230, but 2022 saw a 4K order count increase. Ultimately this decline should be attributed to returning to a more normal baseline and not low performance.
 
+<div align="center">
+	
 ### Quarter over Quarter Trends
+</div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/8b2fe89d-1b96-4adc-89e6-2f9aa2fa977f" />
 
@@ -69,12 +76,17 @@ This analysis reviews the following key metrics:
 + Q1 to Q2 QoQ sales growth decreased every year except for a 2020 53% increase. Q2 to Q3 saw QoQ sales growth every year except 2022, which saw an 8% decrease. Q3 to Q4 saw increases in 2019 and 2022, but saw a 1% decrease in 2021 and a 48% in 2022. The momentum of increased spending in Q2 to Q3 and Q3 to Q4 demonstrated customers seasonal spending most likely attributed to Back to School and Holiday Seasons. 
 AOV decreased YoY for each quarter after the initial increase in 2020 the following two years. Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255). 
 
+
 <img width="920" height="205" alt="image" src="https://github.com/user-attachments/assets/824975af-7eed-43a9-8b61-5dbc6cc5805a" />
 
 
 + New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
 
+<div align="center">
+	
 ### Month over Month Trends
+
+</div>
 
 + Monthly sales ranged from $178K to $1.3M. Sales declined MoM from September to October every year showing the steepest MoM decrease with a 55% decline in 2022, a $220K drop. Sales also declined MoM from December to January and January to February every year, except less than 1% growth from December 2019 to January 2020 and 4% growth from January 2020 to February 2020, a $19K increase. 
 These increases resulted from variable sales for the top 4 performing products with two having the highest AOVs.
@@ -82,8 +94,9 @@ These increases resulted from variable sales for the top 4 performing products w
 + From January 2020 to February 2020, sales for the 27in 4K Gaming Monitor and Apple Airpods Headphones decreased by $28K, but sales for the MacBook Air Laptop and ThinkPad Laptop increased by $44K. Products with large AOVs can dramatically change revenue MoM. Sales increased MoM from October to November and from November to December every year. A 35% increase, $108K, from October 2019 to November 2019, was the second largest MoM increase.  The largest MoM increase was 50% from February 2020 to March 2020, a $250K increase corresponding with the COVID pandemic. 
 
 <div align="center">
+
 	
-### Regional Results
+## Regional Results
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/b31e2bdc-beed-496d-b426-900a27561e7d" />
@@ -94,9 +107,10 @@ These increases resulted from variable sales for the top 4 performing products w
 + LATAM was the lowest performing year averaging a 6% share of total sales each year from 2019 to 2022. LATAM total sales were $1.6M with an average order value of $231.
 + All regions declined in total sales greater than 40% for 2022 except for North America which saw a 37% decline. AOV for all regions matched the total sales trend of sharp increase in 2020 and declined the following years. All regions saw an upward trend of order counts from 2019-2021 with a decrease in 2022.
 
+
 <div align="center">
 	
-### Product Performance
+## Product Performance
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/98fe0b3a-b847-4a2e-aee0-62f41566c4df" />
@@ -108,12 +122,14 @@ These increases resulted from variable sales for the top 4 performing products w
 + ThinkPad Laptop ranked fourth with $3.2M in total sales despite having the second highest AOV of $1100. The ThinkPad Laptop also showed more consistent growth of any product between February 2022 and October 2022.
 + From 2020 to 2021, total sales and AOV decreased, but order count increased. Total Sales for high price items decreased: MacBook Air Laptop by 35% and ThinkPad Laptop by 20%, but there was a 134% increase for the lower priced Samsung Webcam. This explains the decreased AOV.  
 
+
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/bcae0401-3fb2-44e2-aa9b-6a17f7905074" />
 
 
 + Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. 
 + Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with 0 orders in 2019. The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones. Total sales seemed unusually low for an Apple product in an electronics product line.
 + The Samsung Webcam outperformed the Apple iPhone even with 0 orders in 2019 and a $50 AOV.
+
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/c8dc4dca-3ec9-4b93-bf23-a1eb53208d73" />
 
@@ -129,12 +145,14 @@ These increases resulted from variable sales for the top 4 performing products w
 ## Marketing
 </div>
 
+
 <img width="1270" height="389" alt="image" src="https://github.com/user-attachments/assets/a32fba58-4534-43c3-9e69-f03a2f838c6c" />
 
 
 + Direct marketing resulted in 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%. 
 + Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers. 
 + Direct marketing was the primary force in generating sales resulting averaging 83% of total sales. All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned about 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at less than or equal to 1%. 
+
 
 <div align="center">
 	
