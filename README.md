@@ -25,13 +25,13 @@ An in-depth analysis was completed to determine **Screen Zone's** performance an
 
 This analysis reviews the following key metrics:
 
-+ __Sales Trends: Analyzing sales revenue, total number of orders, and average order value (AOV).__
-+ __Regional Performance: Determining each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
-+ __Product Performance: Determining best performing products to optimize the product line.__ 
-+ __Marketing Analyses: Evaluating current marketing channels to steer new development.__
-+ __Loyalty Program: Assessing the success of the current loyalty program.__
-+ __Acquisition & Retention:  Understanding the company’s customer acquisition lifecycle.__
-+ __Recommendations: Providing recommendations based on deep dive insights.__ 
++ **Sales Trends:** Analyzing sales revenue, total number of orders, and average order value (AOV).
++ **Regional Performance:** Determining each region's contribution to sales revenue to prioritize strong performers and develop potential.
++ **Product Performance:** Determining best performing products to optimize the product line.
++ **Marketing Analyses:** Evaluating current marketing channels to steer new development.
++ **Loyalty Program:** Assessing the success of the current loyalty program.
++ **Acquisition & Retention:**  Understanding the company’s customer acquisition lifecycle.
++ **Recommendations:** Providing recommendations based on deep dive insights.
 
 <div align="center">
 	
@@ -71,6 +71,7 @@ This analysis reviews the following key metrics:
 	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter comparted to other quarters in the same year. 
 
 <img width="1332" height="208" alt="image" src="https://github.com/user-attachments/assets/93e69a69-13ee-4c9e-99eb-6152de961965" />
+
 + __Potential customer Acquisition problem versus and not only a AOV decrease.__
 	* H2 2022 saw a 38% sales decline from H1 2022.
 	* New Customers decreased by 41% from 2021 into 2022. The decline continued with a Q3 2022 to Q4 2022 decrease of 50% in new customers.
