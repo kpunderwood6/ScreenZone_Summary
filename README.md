@@ -43,8 +43,7 @@ This analysis reviews the following key metrics:
 ## Sales Trends 
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/7a43c65b-d29d-44ee-9e11-60ea0ee04e3e" />
-
+<img width="1328" height="647" alt="image" src="https://github.com/user-attachments/assets/abcb178a-f335-4ea2-8091-d44ea0b5890a" />
 
 + From January 2019 to December 2022 total sales reached $28.1M with an average yearly sales revenue of $7M. 2020 saw a peak reaching the highest annual sales of $10.2M and highest average order value (AOV) of $300; however, 2021 saw the highest order count of 36K with an AOV of $254. The four-year period averaged 27K orders a year with an average order value of $260. 
 	
