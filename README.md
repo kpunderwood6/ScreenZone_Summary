@@ -1,6 +1,7 @@
 <img width="3300" height="1350" alt="Group 2 (7)" src="https://github.com/user-attachments/assets/ef0762e2-7008-4573-9161-485b6d8031a3" />
 <img width="3000" height="900" alt="Group 2 (8)" src="https://github.com/user-attachments/assets/7a9a56fd-e683-4fc8-9fb0-b681a395b0e7" />
 <img width="3000" height="900" alt="Group 2 (9)" src="https://github.com/user-attachments/assets/92640dfb-2ca7-431c-94c5-4f54c65f4aaf" />
+<img width="3000" height="900" alt="Background Logo 2026" src="https://github.com/user-attachments/assets/195e96d7-fc22-488f-a85a-e5778460b2ad" />
 
 
 
