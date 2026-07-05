@@ -91,8 +91,6 @@ This analysis reviews the following key metrics:
 </div>
 
 <img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
-<img width="1333" height="775" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
-
 <img width="1053" height="537" alt="image" src="https://github.com/user-attachments/assets/8b4c07b8-5433-4c9d-bdfb-935eb2457489" />
 
 <div align="center">
