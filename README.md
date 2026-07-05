@@ -1,5 +1,6 @@
 
 <img width="1350" height="600" alt="Backgrounds (4)" src="https://github.com/user-attachments/assets/f91f0d73-8584-4760-bfa6-abf3c384e72d" />
+<img width="1350" height="600" alt="Group 2 (4)" src="https://github.com/user-attachments/assets/4212f49f-8088-41e4-98cb-623a80d779cd" />
 
 
 <div align="center">
