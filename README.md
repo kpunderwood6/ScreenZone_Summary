@@ -44,13 +44,29 @@ This analysis reviews the following key metrics:
 </div>
 
 <img width="1328" height="647" alt="image" src="https://github.com/user-attachments/assets/abcb178a-f335-4ea2-8091-d44ea0b5890a" />
+<img width="1331" height="651" alt="image" src="https://github.com/user-attachments/assets/bad352ff-c12e-4373-ab2a-a1d5754326e2" />
++ COVID-19 pandemic surged 2020 sales as customers pivoted to online purchasing.
+	* 2020 returned a remarkable revenue best of $10.2M, a 163% YoY increase from $3.8M in 2019.
+	* Orders doubled in 2020 with AOV increasing 31% to its peak of $300 from $230. 
+	* This growth, ultimately impermanent, was a direct result from the Covid-19 pandemic.
++ 2021 saw momentum dip, but still returned $9.1M in revenue. 
+	* 2021 saw a slight 10% decrease YoY, a $1M contraction from 2020. 
+	* Order count peaked in 2021 at 36K, but AOV decreased to $254 demonstrating a decline in spending. 
++ Sales continued to decrease in 2022 to pre-COVID levels.
+	* Sales continued to decline with a 46% YoY decrease in 2022 of $4.1M 
+	* 2022 orders were 1.3 times more than 2019 resulting in revenue that surpassed 2019 by $1M; however, both years returned an AOV of $230.
+	* The matching AOV confirms a return to what is likely Screen Zone’s customers spending baseline. 
 
+
+
+
+delete
 + From January 2019 to December 2022 total sales reached $28.1M with an average yearly sales revenue of $7M. 2020 saw a peak reaching the highest annual sales of $10.2M and highest average order value (AOV) of $300; however, 2021 saw the highest order count of 36K with an AOV of $254. The four-year period averaged 27K orders a year with an average order value of $260. 
 	
 + Total sales grew 163% from 3.8M in 2019 to 10.2M in 2020. 2021 decreased 10% over 2019, a $1M contraction. Total sales continued to decline by 46% YoY in 2022, $4.1M lower than 2021. Average order value mirrored the 2020 total sales sharp increase and continued decrease the following two years.  
 
 + The surge in sales due to COVID pandemic was not sustained and sales returned to pre-COVID sales by 2022; however, 2022 total sales were greater than 2019 total sales by $1M. AOV for 2019 and 2022 were both around $230, but 2022 saw a 4K order count increase. Ultimately, the decline should not be framed entirely as low peformance, but also a return to a more normal baseline.
-
+delete
 <div align="center">
 	
 ### Quarter over Quarter Sales Trends
