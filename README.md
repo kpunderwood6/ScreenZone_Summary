@@ -40,7 +40,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-### Sales Trends 
+## Sales Trends 
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/7a43c65b-d29d-44ee-9e11-60ea0ee04e3e" />
