@@ -6,7 +6,7 @@
 
 </div>
 
-|
+
 <div align="center">
 	
  ## Client Profile 
@@ -34,7 +34,9 @@ This analysis reviews the following key metrics:
 + __Marketing Analyses: Evaluating current marketing channels to steer new development.__
 + __Loyalty Program: Assessing the success of the current loyalty program.__
 + __Acquisition & Retention:  Understanding the company’s customer acquisition lifecycle.__
-+ __Recommendations: Providing recommendations based on deep dive insights.__
++ __Recommendations: Providing recommendations based on deep dive insights.__ |
+
+|---------|
 
 <div align="center">
 	
