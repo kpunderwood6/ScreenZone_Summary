@@ -12,17 +12,23 @@
  ## Client Profile 
 </div>
 
-|
+
 **Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
 
-From 2019-2022, the company amassed over $28 million in sales from 87K customers spending approximately $260 per order. The current data spans multiple measures and dimensions including sales, regions, products, marketing channel, and customer loyalty. |
-|---------|
+From 2019-2022, the company amassed over $28 million in sales from 87K customers spending approximately $260 per order. The current data spans multiple measures and dimensions including sales, regions, products, marketing channel, and customer loyalty. 
+
 
 <div align="center">
 	
 ## NorthStar Metrics 
 
 </div>
+
+
+	
+|## NorthStar Metrics| 
+|---------|
+
 
 An in-depth analysis was completed to determine **Screen Zone's** performance and gather insights for multiple teams to make strategic decisions, change course if needed, and build on any strong, consistent indicators. 
 
