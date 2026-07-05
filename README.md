@@ -1,9 +1,3 @@
-
-<img width="1350" height="600" alt="Backgrounds (4)" src="https://github.com/user-attachments/assets/f91f0d73-8584-4760-bfa6-abf3c384e72d" />
-<img width="1100" height="500" alt="Group 2 (4)" src="https://github.com/user-attachments/assets/4212f49f-8088-41e4-98cb-623a80d779cd" />
-<img width="1100" height="400" alt="Group 2 (5)" src="https://github.com/user-attachments/assets/4a980a70-df36-4218-ab7a-d54c48ef800f" />
-<img width="1100" height="450" alt="Group 2 (6)" src="https://github.com/user-attachments/assets/d6f67bf5-28f1-41cc-afe1-bcd0024478b4" />
-
 <img width="3300" height="1350" alt="Group 2 (7)" src="https://github.com/user-attachments/assets/ef0762e2-7008-4573-9161-485b6d8031a3" />
 
 
