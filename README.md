@@ -26,7 +26,7 @@ From 2019-2022, the company amassed over $28 million in sales from 87K customers
 
 
 	
-|## NorthStar Metrics| 
+|NorthStar Metrics| 
 |---------|
 
 
