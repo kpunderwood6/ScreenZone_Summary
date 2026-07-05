@@ -95,6 +95,8 @@ This analysis reviews the following key metrics:
 
 <img width="960" height="210" alt="image" src="https://github.com/user-attachments/assets/0d1aea20-0466-4817-83c0-d5e6891a71a9" />
 
+<img width="1337" height="210" alt="image" src="https://github.com/user-attachments/assets/0d1aea20-0466-4817-83c0-d5e6891a71a9" />
+
 <div align="center">
 	
 ## Product Performance
