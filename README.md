@@ -84,6 +84,7 @@ This analysis reviews the following key metrics:
 
 <img width="1337" height="655" alt="image" src="https://github.com/user-attachments/assets/2af2ad39-c508-4844-be2b-e68bdc2f3180" />
 
+
 |Top Performers|Weakest Performer|Honorable Mention|
 |:---------|:---------|
 |* North America anchored itself as the top performer averaging 52% of total sales. * EMEA ranked second averaging 29% share of total sales each year and an AOV of $259.|* LATAM was the lowest performing year averaging a 6% share of total sales each year from 2019 to 2022. * LATAM total sales were $1.6M with an average order value of $231.|test| 
