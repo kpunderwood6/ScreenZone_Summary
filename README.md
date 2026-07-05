@@ -6,17 +6,15 @@
 
 </div>
 
-
 <div align="center">
 	
  ## Client Profile 
 </div>
 
 
-|**Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
+**Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
 
 From 2019-2022, the company amassed over $28 million in sales from 87K customers spending approximately $260 per order. The current data spans multiple measures and dimensions including sales, regions, products, marketing channel, and customer loyalty. 
-|---------|
 
 <div align="center">
 	
@@ -24,24 +22,17 @@ From 2019-2022, the company amassed over $28 million in sales from 87K customers
 
 </div>
 
-
-	
-|NorthStar Metrics| 
-
-
-
 An in-depth analysis was completed to determine **Screen Zone's** performance and gather insights for multiple teams to make strategic decisions, change course if needed, and build on any strong, consistent indicators. 
 
 This analysis reviews the following key metrics:
-|| 
-| + __Sales Trends: Analyzing sales revenue, total number of orders, and average order value (AOV).__
+
++ __Sales Trends: Analyzing sales revenue, total number of orders, and average order value (AOV).__
 + __Regional Performance: Determining each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
 + __Product Performance: Determining best performing products to optimize the product line.__ 
 + __Marketing Analyses: Evaluating current marketing channels to steer new development.__
 + __Loyalty Program: Assessing the success of the current loyalty program.__
 + __Acquisition & Retention:  Understanding the company’s customer acquisition lifecycle.__
-+ __Recommendations: Providing recommendations based on deep dive insights.__ |
-|---------|
++ __Recommendations: Providing recommendations based on deep dive insights.__ 
 
 <div align="center">
 	
