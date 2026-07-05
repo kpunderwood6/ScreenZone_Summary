@@ -85,45 +85,18 @@ This analysis reviews the following key metrics:
 <img width="1337" height="655" alt="image" src="https://github.com/user-attachments/assets/2af2ad39-c508-4844-be2b-e68bdc2f3180" />
 
 <div align="center">
+	
 <img width="1050" height="191" alt="image" src="https://github.com/user-attachments/assets/5125f62b-0c16-4ccc-bf1a-ddba156a1445" />
 </div>
-
-|Top Performers|Weakest Performer|Honorable Mention|
-|:---------:|:---------:|:--------:|
-|<ul><li>North America anchored itself as the top performer averaging 52% of total sales.</li><li>EMEA ranked second averaging 29% share of total sales each year and an AOV of $259.</li></ul>|<ul><li>LATAM was the lowest performing region averaging a 6% share of total sales.</li><li>LATAM total sales were $1.6M with an average order value of $231.</li></ul>|<ul><li>APAC ranked third averaging a 13% share of total sales each year; however, APAC had the highest AOV of $279 compared to the $260 AOV of North America.</li></ul>
-
-|Top Performers|Weakest Performer|Honorable Mention|
-|:----:|:----:|:--:|
-|<ul><li>North America anchored itself as the top performer averaging 52% of total sales.</li><li>EMEA ranked second averaging 29% share of total sales each year and an AOV of $259.</li></ul>|<ul><li>LATAM was the lowest performing region averaging a 6% share of total sales.</li><li>LATAM total sales were $1.6M with an average order value of $231.</li></ul>|<ul><li>APAC ranked third averaging a 13% share of total sales each year; however, APAC had the highest AOV of $279 compared to the $260 AOV of North America.</li></ul>
-
-<img width="960" height="210" alt="image" src="https://github.com/user-attachments/assets/0d1aea20-0466-4817-83c0-d5e6891a71a9" />
-
-<img width="1337" height="210" alt="image" src="https://github.com/user-attachments/assets/0d1aea20-0466-4817-83c0-d5e6891a71a9" />
-<img width="1050" height="191" alt="image" src="https://github.com/user-attachments/assets/5125f62b-0c16-4ccc-bf1a-ddba156a1445" />
 
 <div align="center">
 	
 ## Product Performance
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/58dd8a9d-064e-41ef-9fa9-f97f9ffdbee8" />
+<img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
 
-
-+ 27in 4K Gaming Monitor was the best performing product each year with $9.8M in total sales and an AOV of $421.  
-+ Apple Airpods Headphones was the most popular and second-best performing product with $7.7M in total sales with a $160 AOV and 3,964 order count.
-+ MacBook Air Laptop ranked third with $6.38M total sales with the highest AOV of $1,588.
-+ ThinkPad Laptop ranked fourth with $3.2M in total sales despite having the second highest AOV of $1100. The ThinkPad Laptop also showed more consistent growth of any product between February 2022 and October 2022.
-+ From 2020 to 2021, total sales and AOV decreased, but order count increased. Total Sales for high price items decreased: MacBook Air Laptop by 35% and ThinkPad Laptop by 20%, but there was a 134% increase for the lower priced Samsung Webcam. This explains the decreased AOV.  
-
-
-<img width="1025" height="648" alt="image" src="https://github.com/user-attachments/assets/b8a8c7ea-152a-4a16-8056-85ebbe2c869e" />
-
-
-+ Samsung Charging Cable Pack overall has the lowest AOV at $20 with $442K total sales, but was one of the most popular products ranking third in order count. 
-+ Bose Soundsport Headphones returned the lowest total sales at $3K with an AOV of $124 with 0 orders in 2019.
-+ The Apple iPhone has the third highest AOV of $740, but only returned total sales of $213K only outperforming the Bose Soundsport Headphones. Total sales seemed unusually low for an Apple product in an electronics product line.
-+ The Samsung Webcam outperformed the Apple iPhone with 0 orders in 2019 and a $50 AOV.
-
+<img width="1053" height="537" alt="image" src="https://github.com/user-attachments/assets/8b4c07b8-5433-4c9d-bdfb-935eb2457489" />
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/86df0451-69ca-45e8-8c97-0d1229131a1e" />
 
