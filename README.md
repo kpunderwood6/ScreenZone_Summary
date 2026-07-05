@@ -12,8 +12,9 @@
 </div>
 
 **Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
+
+From 2019-2022, the company amassed over $28 million in sales from 87K customers spending approximately $260 per order. The current data spans multiple measures and dimensions including sales, regions, products, marketing channel, and customer loyalty. 
  
-From 2019 to 2022, the company amassed over $28M in sales from 87K customers. The current data spans multiple measures and dimensions including price, products, account details, marketing, operations, and customer loyalty. 
 
 <div align="center">
 	
@@ -25,12 +26,13 @@ An in-depth analysis was completed to determine **Screen Zone's** performance an
 
 This analysis reviews the following key metrics:
  
-+ __Sales Trends: Analyzed sales revenue, total number of orders, and average order value.__
-+ __Regional Performance: Determined each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
-+ __Product Performance: Determined best performing products to optimize product line with return rate analysis.__ 
-+ __Marketing Analyses: Evaluated current marketing channels to steer new development.__
-+ __Loyalty Program: Loyalty program performance.__
-+ __Acquisition & Retention:  An assessment of the customer acquisition (account creation to first order).__
++ __Sales Trends: Analyzing sales revenue, total number of orders, and average order value (AOV).__
++ __Regional Performance: Determining each region's contribution to sales revenue to prioritize strong performers and develop potential.__ 
++ __Product Performance: Determining best performing products to optimize the product line.__ 
++ __Marketing Analyses: Evaluating current marketing channels to steer new development.__
++ __Loyalty Program: Assessing the success of the current loyalty program.__
++ __Acquisition & Retention:  Understanding the company’s customer acquisition lifecycle.__
++ __Recommendations: Providing recommendations based on deep dive insights.__
 
 <div align="center">
 	
@@ -39,7 +41,7 @@ This analysis reviews the following key metrics:
 
 <div align="center">
 	
-### Year over Year Sales Trends 
+### Sales Trends 
 </div>
 
 <img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/7a43c65b-d29d-44ee-9e11-60ea0ee04e3e" />
