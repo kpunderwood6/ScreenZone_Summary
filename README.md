@@ -66,41 +66,27 @@ This analysis reviews the following key metrics:
 + __Average Order Value__ 
 	* After a four-quarter growth increase in 2020, AOV decreased YoY for the following eight quarters. 
 	* Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal spending. 
-+ __H2 had both best and worst performing quarter.__
++ __H2 had both the best and worst performing quarter.__
 	* Q4 2020 returned the highest revenue of $3M from a 158% increase from Q2 2019 YoY.
 	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter comparted to other quarters in the same year. 
 
-
-<img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/fd9a0a5a-0336-4c53-9da9-fe218293d6e1" />
-
-
-+ New Customers decreased by 41% with repeat orders only decreasing by 26% from 2021 into 2022.  Q3 2022 to Q4 2022 saw a decrease of 50% in new customers whereas repeat customers only saw 10% decrease. This points to an acquisition problem being a contributing cause of the high YoY sales decrease for Q4 2022. 
-
-
-<div align="center">
-	
-### Month over Month Sales Trends
-
-</div>
-
-+ Monthly sales ranged from $178K to $1.3M. Sales declined MoM from September to October every year showing the steepest MoM decrease with a 55% decline in 2022, a $220K drop. Sales also declined MoM from December to January and January to February every year, except less than 1% growth from December 2019 to January 2020 and 4% growth from January 2020 to February 2020, a $19K increase. 
-These increases resulted from variable sales for the top 4 performing products with two having the highest AOVs.
-
-+ From January 2020 to February 2020, sales for the 27in 4K Gaming Monitor and Apple Airpods Headphones decreased by $28K, but sales for the MacBook Air Laptop and ThinkPad Laptop increased by $44K. Products with large AOVs can significantly change revenue MoM. Sales increased MoM from October to November and from November to December every year. A 35% increase, $108K, from October 2019 to November 2019, was the second largest MoM increase.  The largest MoM increase was 50% from February 2020 to March 2020, a $250K increase corresponding with the COVID pandemic. 
+<img width="1332" height="208" alt="image" src="https://github.com/user-attachments/assets/93e69a69-13ee-4c9e-99eb-6152de961965" />
++ __Potential customer Acquisition problem versus and not only a AOV decrease.__
+	* H2 2022 saw a 38% sales decline from H1 2022.
+	* New Customers decreased by 41% from 2021 into 2022. The decline continued with a Q3 2022 to Q4 2022 decrease of 50% in new customers.
+	* This highlighted an acquisition problem being a contributor to the high YoY sales decrease for Q4 2022 and not only customers generally purchasing less expensive products.  
 
 <div align="center">
 
-	
-## Regional Results
+## Region Analysis
 </div>
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/0d06fdb1-c41c-4d10-9ed3-7e8d4a7f7980" />
+<img width="1337" height="655" alt="image" src="https://github.com/user-attachments/assets/2af2ad39-c508-4844-be2b-e68bdc2f3180" />
 
+|Top Performers|Weakest Performer|Honorable Mention|
+|:---------|:---------|
+|* North America anchored itself as the top performer averaging 52% of total sales. * EMEA ranked second averaging 29% share of total sales each year and an AOV of $259.|* LATAM was the lowest performing year averaging a 6% share of total sales each year from 2019 to 2022. * LATAM total sales were $1.6M with an average order value of $231.|test| 
 
-+ NA led regional performance averaging a 52% share of total sales each year from 2019 to 2022 solidifying itself as the anchor of regional sales. NA total sales were $15M with an average order value of $260.
-+ EMEA ranked second averaging 29% share of total sales each year. APAC ranked third averaging a 13% share of total sales each year; however, APAC had the highest AOV of $279 with a peak of $317 during 2020.
-+ LATAM was the lowest performing year averaging a 6% share of total sales each year from 2019 to 2022. LATAM total sales were $1.6M with an average order value of $231.
-+ All regions declined in total sales greater than 40% for 2022 except for North America which saw a 37% decline. AOV for all regions matched the total sales trend of sharp increase in 2020 and declined the following years. All regions saw an upward trend of order counts from 2019-2021 with a decrease in 2022.
 
 
 <div align="center">
