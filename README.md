@@ -45,6 +45,7 @@ This analysis reviews the following key metrics:
 
 <img width="1328" height="647" alt="image" src="https://github.com/user-attachments/assets/abcb178a-f335-4ea2-8091-d44ea0b5890a" />
 <img width="1331" height="651" alt="image" src="https://github.com/user-attachments/assets/bad352ff-c12e-4373-ab2a-a1d5754326e2" />
+
 + COVID-19 pandemic surged 2020 sales as customers pivoted to online purchasing.
 	* 2020 returned a remarkable revenue best of $10.2M, a 163% YoY increase from $3.8M in 2019.
 	* Orders doubled in 2020 with AOV increasing 31% to its peak of $300 from $230. 
