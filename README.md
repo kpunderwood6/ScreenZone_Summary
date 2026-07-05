@@ -11,8 +11,8 @@
 	
  ## Client Profile 
 </div>
-
-**Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
+|
+|**Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
 
 From 2019-2022, the company amassed over $28 million in sales from 87K customers spending approximately $260 per order. The current data spans multiple measures and dimensions including sales, regions, products, marketing channel, and customer loyalty. |
 |---------|
