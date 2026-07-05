@@ -112,7 +112,7 @@ This analysis reviews the following key metrics:
 ## Marketing Analysis
 </div>
 
-<img width="1334" height="481" alt="image" src="https://github.com/user-attachments/assets/6da52518-c6ff-4ad9-a290-58f284121089" />
+<img width="1335" height="482" alt="image" src="https://github.com/user-attachments/assets/71c76a17-f319-4fad-8241-ac8d20db5e70" />
 
 + Direct marketing was the primary force in generating sales across all regions averaging 83% of total sales. Although, there has been a YoY decline starting at 86% to 76%. 
 + Email marketing’s share of total sales increased each year reaching 16% in 2022 doubling from 8% in 2019. Email was more successful in LATAM and NA with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%.
