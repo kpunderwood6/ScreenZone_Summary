@@ -72,7 +72,7 @@ This analysis reviews the following key metrics:
 
 <img width="1332" height="208" alt="image" src="https://github.com/user-attachments/assets/93e69a69-13ee-4c9e-99eb-6152de961965" />
 
-+ __Potential customer Acquisition problem versus and not only a AOV decrease.__
++ __Potential customer Acquisition problem and not only an AOV decrease.__
 	* H2 2022 saw a 38% sales decline from H1 2022.
 	* New Customers decreased by 41% from 2021 into 2022. The decline continued with a Q3 2022 to Q4 2022 decrease of 50% in new customers.
 	* This highlighted an acquisition problem being a contributor to the high YoY sales decrease for Q4 2022 and not only customers generally purchasing less expensive products.  
@@ -83,10 +83,9 @@ This analysis reviews the following key metrics:
 </div>
 
 <img width="1337" height="655" alt="image" src="https://github.com/user-attachments/assets/2af2ad39-c508-4844-be2b-e68bdc2f3180" />
+<img width="1008" height="193" alt="image" src="https://github.com/user-attachments/assets/a86e34a1-a5b4-458e-af40-d2c7e6ad167e" />
 
 <img width="1008" height="191" alt="image" src="https://github.com/user-attachments/assets/5125f62b-0c16-4ccc-bf1a-ddba156a1445" />	
-<img width="1000" height="191" alt="image" src="https://github.com/user-attachments/assets/5125f62b-0c16-4ccc-bf1a-ddba156a1445" />
-
 
 <div align="center">
 	
@@ -94,11 +93,14 @@ This analysis reviews the following key metrics:
 </div>
 
 <img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
+<img width="1333" height="775" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
 
 <img width="1053" height="537" alt="image" src="https://github.com/user-attachments/assets/8b4c07b8-5433-4c9d-bdfb-935eb2457489" />
 
-
+<div align="center">
+	
 ### Return Rates ###
+</div>
 
 + The overall refund rate for the four-year period was approximately 5%.
 + 2020 had the highest refund rate of 9% dropping to 0% in 2022. This 0% rate is either due to missing data or the return policy, but must be confirmed. 
@@ -107,18 +109,14 @@ This analysis reviews the following key metrics:
 	* The MacBook Air Laptop had the highest product refund rate of 18% in 2019, but each year it decreased.
 	* Loyalty members did not return a MacBook Air Laptops, a notable difference between members and non-loyalty members. 
 + Non premium products saw return rates of 3% or less.
-+ 
 <img width="1332" height="650" alt="image" src="https://github.com/user-attachments/assets/fa1ac367-b832-4d15-b1f0-0f029ae7403b" />
 
 <div align="center">
 	
-## Marketing Performance
+## Marketing Analysis
 </div>
 
-<img width="1343" height="501" alt="image" src="https://github.com/user-attachments/assets/0dc19099-933d-4756-a7fd-3acf490395dc" />
-
-
-<img width="1271" height="391" alt="image" src="https://github.com/user-attachments/assets/2fe4cc35-8185-41a2-9669-ba28c7f89f00" />
+<img width="1334" height="481" alt="image" src="https://github.com/user-attachments/assets/6da52518-c6ff-4ad9-a290-58f284121089" />
 
 + Direct marketing was the primary force in generating sales across all regions averaging 83% of total sales. Although, there has been a YoY decline starting at 86% to 76%. 
 + Email marketing’s share of total sales increased each year reaching 16% in 2022 doubling from 8% in 2019. Email was more successful in LATAM and NA with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%.
@@ -152,7 +150,7 @@ This analysis reviews the following key metrics:
 ## Recommendations 
 
 </div>
-Recommendations for Screen Zone moving forward based on deep dive insights.
+Recommendations for Screen Zone based on deep dive insights.
 
 ### Marketing Strategy
 
