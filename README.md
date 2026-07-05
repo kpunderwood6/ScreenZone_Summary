@@ -97,28 +97,33 @@ This analysis reviews the following key metrics:
 
 <img width="1053" height="537" alt="image" src="https://github.com/user-attachments/assets/8b4c07b8-5433-4c9d-bdfb-935eb2457489" />
 
-<img width="1024" height="647" alt="image" src="https://github.com/user-attachments/assets/86df0451-69ca-45e8-8c97-0d1229131a1e" />
 
+### Return Rates ###
 
-+ The return rate for the four-year period was about 5%. 2020 had the highest return rate of 9%, and the return rate for 2022 was 0%. 
-+ MacBook Air Laptop and the ThinkPad Laptop were consistently the top two most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place.
-+ MacBook Air Laptop had the highest return rate of any product at 18% in 2019, but each year it decreased.
-+ Samsung Charging Cable Pack had an overall return rate of 1%.
-+ The Apple iPhone and Apple Airpods Headphones saw similar return rates except for 2019. 
++ The overall refund rate for the four-year period was approximately 5%.
++ 2020 had the highest refund rate of 9% dropping to 0% in 2022. This 0% rate is either due to missing data or the return policy, but must be confirmed. 
++ Premium products were returned at much higher rates. 
+	* The MacBook Air Laptop and the ThinkPad Laptop were consistently the most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place.
+	* The MacBook Air Laptop had the highest product refund rate of 18% in 2019, but each year it decreased.
+	* Loyalty members did not return a MacBook Air Laptops, a notable difference between members and non-loyalty members. 
++ Non premium products saw return rates of 3% or less.
++ 
+<img width="1332" height="650" alt="image" src="https://github.com/user-attachments/assets/fa1ac367-b832-4d15-b1f0-0f029ae7403b" />
 
 <div align="center">
 	
 ## Marketing Performance
 </div>
 
+<img width="1343" height="501" alt="image" src="https://github.com/user-attachments/assets/0dc19099-933d-4756-a7fd-3acf490395dc" />
+
 
 <img width="1271" height="391" alt="image" src="https://github.com/user-attachments/assets/2fe4cc35-8185-41a2-9669-ba28c7f89f00" />
 
-
-+ Direct marketing was the primary force in generating sales averaging 83% of total sales with email coming in second at 17%. Affiliate marketing holds the third position at 3%. 
-+ Recognizing the consistent decrease in sales every October, October 2021 only saw a 1% decrease in sales from direct marketing for new customers and a 21% decrease in sales for repeat customers. 2022 saw higher decreases with a 73% decrease for new customers and a 25% decrease for repeat customers from direct marketing. Email saw an 11% decrease in sales from email campaigns for new customers and a 129% increase for repeat customers in October 2021. 2022 saw a 69% decrease for new customers and a 44% decrease for repeat customers.
-+ All regions saw direct marketing contributing to at least 80% of their sales with email second and affiliate third. Affiliate marketing generated more sales within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned only 1%. LATAM and NA responded better to email campaigns with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%. Social Media marketing was consistently the lowest across regions at 1%. 
-
++ Direct marketing was the primary force in generating sales across all regions averaging 83% of total sales. Although, there has been a YoY decline starting at 86% to 76%. 
++ Email marketing’s share of total sales increased each year reaching 16% in 2022 doubling from 8% in 2019. Email was more successful in LATAM and NA with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%.
++ Affiliate marketing performed better within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned approximately 1%.
++ Social Media marketing consistently yielded minimal results across all regions. 
 
 <div align="center">
 	
@@ -126,62 +131,56 @@ This analysis reviews the following key metrics:
 	
 </div>
 
-<img width="1026" height="461" alt="image" src="https://github.com/user-attachments/assets/b0ca4443-65c3-4dfd-9fcc-7fbbf5cad906" />
+<img width="1331" height="462" alt="image" src="https://github.com/user-attachments/assets/b6652b38-5a3a-4379-af44-b6f01a8328d4" />
 
-
-+ Total sales for the loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022. Non-members saw a 108% growth increase, but declined every year after 2020.
-+ AOV growth for loyalty program customers saw a 2% decrease from $249 in 2021 to $245 in 2022, whereas non-members saw an 18% decrease in AOV from $261 to $214.
-+ Ultimately, Loyalty program members outspent non loyalty members by $609K in 2021 and $480K in 2022.
-+ Only 35% of repeat customers were loyalty program members.
-+ The Apple iPhone was not ordered by a loyalty program customer during the entire four-year period. 
++ Total sales from loyalty program members grew 614% in 2020 starting at $415K in 2019, with continued growth of 64% in 2021, but saw a 44% decrease in 2022.
++ The AOV for non-members dropped from $345 in 2020 to $214 in 2022. The loyalty members AOV started at $228 in 2019 increased to $249 and only dropped to $245, much less fluctuation than non-members. 
++ Loyalty program members generated more orders in 2021 and 2022 than non-members. 
++ Only 35% of returning customers were loyalty program members. Given that customers are mostly returning to purchase the gaming monitor and headphones, ideally there would be more returning customers in the loyalty program. 
 
 <div align="center">
 	
 ## Acquisition & Retention
 </div>
 
-+ Customers on average took about 92 days to make their first order after creating an account. Direct marketing, close to the average, saw about 89 days while email saw 117 days for conversion. Affiliate marketing saw customers making their first order within 5 days. Although affiliate marketing only produced 3% of total sales, it saw a significantly higher conversion from potential customer to account creation to first purchase.
-+ 78% of customers created their account on a desktop computer and 17% used the mobile app. 83% then made their orders using the website with 17% opting to use the mobile app instead.
-+ Repeat customer rate was 20%.
++ Customers on average waited 92 days to make their first order after creating an account. 
++ Affiliate marketing saw customers making their first order on average within 5 days. It approximately 89 days for direct marketing. 
++ Even though affiliate marketing only produced 3% of total sales, it is important to highlight the channel saw a significantly higher turnaround in customer acquisition from potential customer to account creation to first purchase. 
 
 <div align="center">
 	
 ## Recommendations 
 
 </div>
-Recommendations for ScreenZone moving forward based on uncovered insights.
+Recommendations for Screen Zone moving forward based on deep dive insights.
 
 ### Marketing Strategy
 
-+ Prioritize developing other marketing channels besides direct to continue attracting new customers. The Q4 2022 demonstrated an overreliance on direct marketing is potentially to blame for the low performing quarter.
-+ With Q3 and Q4 seeing customers spend higher amounts, there is an opportunity to market product bundles, such as MacBook Air Laptop and Apple Airpods headphones, during the second half of the year.
-+ Email campaigns need to increase as acquiring new customers was an identified problem in 2022.
-+ Prioritize email campaigns before the back-to-school season and holiday seasons begin to align with these seasonal windows of high sales and potentially curb spending fatigue after back-to-school season ends (October MoM decreases).
-+ Develop more partnerships for affiliate marketing considering it saw quicker acquisition to conversion timelines.
-+ Social media marketing plans can be deprioritized or the current approach revaluated as it contributes very low amounts in every region. 
-
-### Regions
-
-+ APAC has untapped potential as customers tended to buy higher priced products. APAC is also the perfect region to test budling products and shifting advertising to focus on higher priced products.
-+ NA must take precedence when considering new products, prioritizing inventory, and determining the marketing budget as it is the core of the business.
-+ Push email campaigns for all regions especially LATAM as this channel has the greatest growth potential.
-+ Develop targeted advertising specific to each region. 
++ Prioritize developing other marketing channels to attract and reduce current overreliance on direct marketing.  
+	* Prioritize investment in targeted email campaigns and align them with seasonal trends to capitalize on back-to-school and holiday season peak sales.
+	* Strengthen current affiliate partnerships and develop more partnerships. The short customer acquisition journey discovered within the affiliate marketing channel demonstrated potential for further success. 
+	* Invest in further developing social media strategies due to their low performance.
++ Explore region specific targeted marketing across regions prioritizing APAC and LATAM. 
+	* APAC has untapped potential considering its high AOV. 
+	* LATAM has the greatest potential for increased sales. 
++ Since 17% of customers ordered through the mobile app, an opportunity exists for increased marketing with notifications for discounts, app specific promotional deals, and advertising the loyalty program is important. 
 
 ### Products
 
-+ ThinkPad Laptop showed more consistent growth of any product between February 2022 and October 2022. Recognizing this pattern along with its high AOV, promotions and marketing should emphasize this potential specifically in NA and EMEA because even modest order counts will drive substantial revenue.
-+ Highlight the top four performing products in promotional campaigns every holiday season as they consistently see increased growth every November and December in all regions.
-+ 27in 4K Gaming Monitor performed particularly well each September. Shift focus to heavily market this product during the Back-to-School Season and ensure product placement is always prominent on the website.
-+ Bose Headphones and Samsung Webcam are prime candidates for product bundles and add-on deals at customer checkout. These products could be used to test these strategies and if unsuccessful consider not restocking these products due to consistently low sales.
-+ Product team should research if the Apple iPhone product stock was irrelevant compared to other online retailers. 
-+ Confirm with Account Operations the 0% return rate for 2022 was correct.
++ Continue to invest in and highlight high performing products.
+	* 27in 4K Gaming Monitor performed particularly well each September. Shift focus to heavily market this product during the back-to-school season and ensure product placement is always prominent on the website. 
+	* ThinkPad Laptop showed more consistent growth of any product between February 2022 and October 2022. Promotions and marketing should capitalize on the high product AOV.
++ Consider bundling premium products with non-premium products. 
+	* Bose Headphones and Samsung Webcam are prime candidates for product bundles and add-on deals at customer checkout. 
+	* The MacBook Air Laptop and Apple AirPods Headphones are also candidates for budling. 
++ Diversifying the product mix to include more moderately priced products could reduce dramatic fluctuations in total sales by decreasing reliance on the volume of premium product sales. 
++ Consider deprioritizing or phasing out specific products due to low sales.
+	* Bose Headphones and Samsung Webcam combined contributed approximately 1% of sales. 
+	* The Apple iPhone total sales were low considering its place as a premium product in an electronic product line. The product stock should be investigated to understand if particular models were not attractive to customers or if they were priced incorrectly. 
++ Investigate current quality control practices and reevaluate the current return window for products. 
 
 ### Loyalty Program
 
-+ The loyalty program should remain and receive continued investment as it saw high growth in its first two years and in the last two years loyalty members spent more money than non-loyalty members which reduced the severity of the 2022 sales decline.
-+ Prioritize converting repeat customers into loyalty members. Loyalty members spend more and repeat customers are already engaged which means converting more non-members into the program is a low risk action with likely high ROI.
-
-### Platform
-
-+ The website and desktop experience are the primary focus, but the mobile app conversion should not be neglected because it's a growth opportunity. Develop further marketing strategies for the mobile app to advertise the loyalty program and app specific deals.
-
++ The loyalty program should remain and receive continued investment as it saw high growth in its first two years and in the last two years returned higher total sales than non-members.
++ Prioritize converting repeat customers into loyalty members with targeted marketing of membership benefits and savings.  
++ Offer incentives to members who have only purchased non-premium products. 
