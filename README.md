@@ -43,7 +43,6 @@ This analysis reviews the following key metrics:
 ## Sales Trends 
 </div>
 
-<img width="1328" height="647" alt="image" src="https://github.com/user-attachments/assets/abcb178a-f335-4ea2-8091-d44ea0b5890a" />
 <img width="1331" height="651" alt="image" src="https://github.com/user-attachments/assets/bad352ff-c12e-4373-ab2a-a1d5754326e2" />
 
 + __COVID-19 pandemic surged 2020 sales as customers pivoted to online purchasing.__
@@ -63,13 +62,13 @@ This analysis reviews the following key metrics:
 + __H2 drives total sales in comparison to less profitable H1.__
 	* Q4 to Q1 and Q1 to Q2 QoQ sales decreased every year except quarters that aligned with the pandemic.  This decrease echoed in MoM sales as well from December to January and January to February. 
 	* Q2 to Q3 and Q3 to Q4 QoQ sales increased every year except 2022 and a minor 1% decrease Q3 2021 to Q4 2021 QoQ. This momentum would see a disruption of September to October MoM decreases every year with a high of 55% in 2022, a $220K drop; however, sales increased MoM from October to November and from November to December every year.
-	*The momentum of increased spending from Q2 to Q3 and Q3 to Q4 aligned with seasonal Back to School and Holiday Season shopping with a window of fatigue directly after Back to School and before Holiday Season. 
+	* The momentum of increased spending from Q2 to Q3 and Q3 to Q4 aligned with seasonal Back to School and Holiday Season shopping with a window of fatigue directly after Back to School and before Holiday Season. 
 + __Average Order Value__ 
-	*After a four-quarter growth increase in 2020, AOV decreased YoY for the following eight quarters. 
-	*Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal spending. 
+	* After a four-quarter growth increase in 2020, AOV decreased YoY for the following eight quarters. 
+	* Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal spending. 
 + __H2 had both best and worst performing quarter.__
-	*Q4 2020 returned the highest revenue of $3M from a 158% increase from Q2 2019 YoY.
-	*Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter comparted to other quarters in the same year. 
+	* Q4 2020 returned the highest revenue of $3M from a 158% increase from Q2 2019 YoY.
+	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter comparted to other quarters in the same year. 
 
 
 <img width="1024" height="205" alt="image" src="https://github.com/user-attachments/assets/fd9a0a5a-0336-4c53-9da9-fe218293d6e1" />
