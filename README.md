@@ -42,11 +42,11 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 
 <div align="center">
 
-<div align="center">
-	
 # Deep Dive Insights
 </div>
 
+<div align="center">
+	
 ## Sales Trends 
 </div>
 
