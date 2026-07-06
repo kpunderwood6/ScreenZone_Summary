@@ -17,13 +17,13 @@ From 2019-2022, the company amassed over $28 million in sales from 87K customers
 
 <div align="center">
 	
-## NorthStar Metrics 
+## Project Goals
 
 </div>
 
 An in-depth analysis was completed to determine **Screen Zone's** performance and gather insights for multiple teams to make strategic decisions, change course if needed, and build on any strong, consistent indicators. 
 
-This analysis reviews the following key metrics:
+This analysis reviews the following key **NorthStar Metrics:**
 
 + **Sales Trends:** Analyzing sales revenue, total number of orders, and average order value (AOV).
 + **Regional Performance:** Determining each region's contribution to sales revenue to prioritize strong performers and develop potential.
@@ -38,8 +38,15 @@ This analysis reviews the following key metrics:
 # Executive Summary
 </div>
 
+After peaking in 2020 from a 163% year-over-year increase, Screen Zone's sales entered a prolonged decline ending in a particularly steep drop in Q4 2022. Despite a strong start in January 2021, downward trends persisted through 2022 across all key performance indicators: a 46% year-over-year decrease in total sales, a 10% decrease in average order value, and a 40% decrease in order counts. While 2022 marked a return toward pre-pandemic levels, it still outperformed 2019 by $1M. The following sections explore NorthStar Metrics in detail and highlight opportunities for improvement.
+
+<div align="center">
+
 <div align="center">
 	
+# Deep Dive Insights
+</div>
+
 ## Sales Trends 
 </div>
 
@@ -169,8 +176,8 @@ Recommendations for Screen Zone based on deep dive insights.
 	* The MacBook Air Laptop and Apple AirPods Headphones are also candidates for budling. 
 + Diversifying the product mix to include more moderately priced products could reduce dramatic fluctuations in total sales by decreasing reliance on the volume of premium product sales. 
 + Consider deprioritizing or phasing out specific products due to low sales.
-	* Bose Headphones and Samsung Webcam combined contributed approximately 1% of sales. 
-	* The Apple iPhone total sales were low considering its place as a premium product in an electronic product line. The product stock should be investigated to understand if particular models were not attractive to customers or if they were priced incorrectly. 
+	* Bose Headphones and Samsung Webcam combined contributed approximately only 1% of sales. 
+	* The Apple iPhone sales were surprisingly low (1%) considering its place as a premium product in an electronic product line. The product stock should be investigated to understand if particular models were possibly not attractive to customers or if they were priced incorrectly.
 + Investigate current quality control practices and reevaluate the current return window for products. 
 
 ### Loyalty Program
