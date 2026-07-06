@@ -153,7 +153,7 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 ## Recommendations 
 
 </div>
-Recommendations for Screen Zone based on deep dive insights.
+Recommendations for Screen Zone based on deep dive insights:
 
 ### Marketing Strategy
 
