@@ -141,7 +141,7 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 
 <div align="center">
 	
-## Acquisition & Retention
+## Customer Acquisition
 </div>
 
 + Customers on average waited 92 days to make their first order after creating an account. 
