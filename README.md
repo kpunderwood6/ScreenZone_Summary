@@ -145,8 +145,8 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 </div>
 
 + Customers on average waited 92 days to make their first order after creating an account. 
-+ Affiliate marketing saw customers making their first order on average within 5 days. It approximately 89 days for direct marketing. 
-+ Even though affiliate marketing only produced 3% of total sales, it is important to highlight the channel saw a significantly higher turnaround in customer acquisition from potential customer to account creation to first purchase. 
++ Affiliate marketing saw customers making their first order on average within 5 days. It was approximately 89 days for direct marketing. 
++ Even though affiliate marketing only contributed 3% of total sales, it is important to highlight the channel saw a significantly higher turnaround in customer acquisition from potential customer to account creation to first purchase. 
 
 <div align="center">
 	
