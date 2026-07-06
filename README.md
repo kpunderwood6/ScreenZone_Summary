@@ -105,11 +105,11 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 ### Return Rates ###
 </div>
 
-+ The overall refund rate for the four-year period was approximately 5%.
-+ 2020 had the highest refund rate of 9% dropping to 0% in 2022. This 0% rate is either due to missing data or the return policy, but must be confirmed. 
++ The overall return rate for the four-year period was approximately 5%.
++ 2020 had the highest return rate of 9% dropping to 0% in 2022. This 0% rate is either due to missing data or the return policy, but must be confirmed. 
 + Premium products were returned at much higher rates. 
 	* The MacBook Air Laptop and the ThinkPad Laptop were consistently the most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place.
-	* The MacBook Air Laptop had the highest product refund rate of 18% in 2019, but each year it decreased.
+	* The MacBook Air Laptop had the highest product return rate of 18% in 2019, but each year it decreased.
 	* Loyalty members did not return a MacBook Air Laptops, a notable difference between members and non-loyalty members. 
 + Non premium products saw return rates of 3% or less.
 <img width="1332" height="650" alt="image" src="https://github.com/user-attachments/assets/fa1ac367-b832-4d15-b1f0-0f029ae7403b" />
