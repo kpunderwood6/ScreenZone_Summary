@@ -52,7 +52,9 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 ## Data Quality 
 
 </div>
-The dataset contained instances of missing and erroneous data. The table below shows the magnitude of the inconsistencies that could not be resolved during the data cleaning process, but require collaboration with the appropriate team to correct. &npsp;
+The dataset contained instances of missing and erroneous data. The table below shows the magnitude of the inconsistencies that could not be resolved during the data cleaning process, but require collaboration with the appropriate team to correct. 
+
+&npsp;      
 
 
 
