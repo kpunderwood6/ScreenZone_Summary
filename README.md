@@ -48,8 +48,8 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 <img width="1352" height="928" alt="image" src="https://github.com/user-attachments/assets/4a39fae1-5313-44f3-8292-bd24fcc11c8d" />
 
 
-| Table | Field | Issue | Row Count | Magnitude
-|---|---|---|
+| Table | Field | Issue | Row Count | Magnitude|
+|---|---|---|---|---|
 |Customers|	country_code|Missing Values	|140|0.13%|
 |Customers|	country_code|Country codes identified as "A1" and "EU"|19|0.02%|
 |Orders|currency|Missing Values|54|0.05%|
