@@ -48,6 +48,12 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 <img width="1352" height="928" alt="image" src="https://github.com/user-attachments/assets/4a39fae1-5313-44f3-8292-bd24fcc11c8d" />
 
 
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
+
 <div align="center">
 	
 # Executive Summary
