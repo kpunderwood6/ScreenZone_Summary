@@ -35,6 +35,18 @@ This analysis reviews the following key **NorthStar Metrics:**
 
 <div align="center">
 	
+# Data Structure and Quality
+</div>
+
+## Entity Relationship Diagram
+
+Screen Zone’s database structure consists of four tables: orders, customers, geo_lookup, and order_status.
+
+<img width="1352" height="928" alt="image" src="https://github.com/user-attachments/assets/4a39fae1-5313-44f3-8292-bd24fcc11c8d" />
+
+
+<div align="center">
+	
 # Executive Summary
 </div>
 
