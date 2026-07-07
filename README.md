@@ -94,7 +94,7 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 	* 2021 saw a slight 10% decrease YoY, a $1M contraction from 2020. 
 	* Order count peaked in 2021 at 36K, but AOV decreased to $254 demonstrating a decline in spending. 
 + __Sales continued to decrease in 2022 to pre-COVID levels.__
-	* Sales continued to decline with a 46% YoY decrease in 2022 of $4.1M 
+	* Sales continued to decline with a 46% YoY decrease in 2022 of $4.1M. 
 	* 2022 orders were 1.3 times more than 2019 resulting in revenue that surpassed 2019 by $1M; however, both years returned an AOV of $230.
 	* The matching AOV confirms a return to what is likely Screen Zone’s customers spending baseline.
 
@@ -102,21 +102,21 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 
 + __H2 drives total sales in comparison to less profitable H1.__
 	* Q4 to Q1 and Q1 to Q2 QoQ sales decreased every year except quarters that aligned with the pandemic.  This decrease echoed in MoM sales as well from December to January and January to February. 
-	* Q2 to Q3 and Q3 to Q4 QoQ sales increased every year except 2022 and a minor 1% decrease Q3 2021 to Q4 2021 QoQ. This momentum would see a disruption of September to October MoM decreases every year with a high of 55% in 2022, a $220K drop; however, sales increased MoM from October to November and from November to December every year.
-	* The momentum of increased spending from Q2 to Q3 and Q3 to Q4 aligned with seasonal Back to School and Holiday Season shopping with a window of fatigue directly after Back to School and before Holiday Season. 
+	* Q2 to Q3 and Q3 to Q4 QoQ sales increased every year except 2022 and a minor 1% decrease from Q3 2021 to Q4 2021. This momentum was disrupted due to September to October MoM decreases every year with a high of 55% in 2022, a $220K drop; however, sales increased MoM from October to November and from November to December every year.
+	* The momentum of increased sales from Q2 to Q3 and Q3 to Q4 aligned with seasonal Back to School and Holiday Season shopping with a window of fatigue directly after Back to School and before Holiday Season. 
 + __Average Order Value__ 
-	* After a four-quarter growth increase in 2020, AOV decreased YoY for the following eight quarters. 
-	* Over the four years, AOV was higher in second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal spending. 
+	* After a four-quarter increase in 2020, AOV decreased YoY for the following eight quarters. 
+	* Over the four years, AOV was higher the second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal sales. 
 + __H2 had both the best and worst performing quarter.__
-	* Q4 2020 returned the highest revenue of $3M from a 158% increase from Q2 2019 YoY.
+	* Q4 2020 returned the highest sales of $3M from a 158% YoY increase from Q4 2019.
 	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter comparted to other quarters in the same year. 
 
 <img width="1332" height="208" alt="image" src="https://github.com/user-attachments/assets/93e69a69-13ee-4c9e-99eb-6152de961965" />
 
-+ __Potential customer Acquisition problem and not only an AOV decrease.__
++ __Q4 2022 experienced a steep decline in new customer acquisition.__
 	* H2 2022 saw a 38% sales decline from H1 2022.
-	* New Customers decreased by 41% from 2021 into 2022. The decline continued with a Q3 2022 to Q4 2022 decrease of 50% in new customers.
-	* This highlighted an acquisition problem being a contributor to the high YoY sales decrease for Q4 2022 and not only customers generally purchasing less expensive products.  
+	* New customers decreased by 41% from 2021 into 2022. The decline continued with a Q3 2022 to Q4 2022 50% decrease in new customers.
+	* This highlighted an acquisition problem being a contributor to the high YoY sales decrease for Q4 2022 and not only customers generally ordering less expensive products.  
 
 <div align="center">
 
@@ -144,8 +144,8 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 + Premium products were returned at much higher rates. 
 	* The MacBook Air Laptop and the ThinkPad Laptop were consistently the most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place.
 	* The MacBook Air Laptop had the highest product return rate of 18% in 2019, but each year it decreased.
-	* Loyalty members did not return a MacBook Air Laptops, a notable difference between members and non-loyalty members. 
-+ Non premium products saw return rates of 3% or less.
+	* Loyalty members did not return MacBook Air Laptops, a notable difference between members and non-loyalty members. 
++ Non premium products recorded return rates of 3% or less.
 <img width="1332" height="650" alt="image" src="https://github.com/user-attachments/assets/fa1ac367-b832-4d15-b1f0-0f029ae7403b" />
 
 <div align="center">
