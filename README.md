@@ -54,7 +54,7 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 </div>
 The dataset contained instances of missing and erroneous data. The table below shows the magnitude of the inconsistencies that could not be resolved during the data cleaning process, but require collaboration with the appropriate team to correct. 
 
-&npsp;      
+      
 
 
 
@@ -67,8 +67,6 @@ The dataset contained instances of missing and erroneous data. The table below s
 |Orders|purchase_ts|Purchase Date is after Ship Date|15|0.01%|
 |Orders|usd_price|$0.00 price points|158|0.15%|
 |Orders|usd_price|Missing Values|33|0.03%|
-
-
 
 
 <div align="center">
