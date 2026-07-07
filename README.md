@@ -35,7 +35,7 @@ This analysis reviews the following key **NorthStar Metrics:**
 
 <div align="center">
 	
-# Data Structure and Data Quality
+# Data Structure and Quality
 </div>
 
 <div align="center">
