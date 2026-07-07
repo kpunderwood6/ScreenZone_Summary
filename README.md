@@ -47,6 +47,7 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 
 <img width="1352" height="928" alt="image" src="https://github.com/user-attachments/assets/4a39fae1-5313-44f3-8292-bd24fcc11c8d" />
 
+<div align="center">
 
 | Table | Field | Issue | Row Count | Magnitude|
 |---|---|---|---|---|
@@ -58,7 +59,7 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 |Orders|usd_price|$0.00 price points|158|0.15%|
 |Orders|usd_price|Missing Values|33|0.03%|
 
-
+</div>
 
 
 <div align="center">
