@@ -103,7 +103,7 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 + __H2 drives total sales in comparison to less profitable H1.__
 	* Q4 to Q1 and Q1 to Q2 QoQ sales decreased every year except quarters that aligned with the pandemic.  This decrease echoed in MoM sales as well from December to January and January to February. 
 	* Q2 to Q3 and Q3 to Q4 QoQ sales increased every year except 2022 and a minor 1% decrease from Q3 2021 to Q4 2021. This momentum was disrupted due to September to October MoM decreases every year with a high of 55% in 2022, a $220K drop; however, sales increased MoM from October to November and from November to December every year.
-	* The momentum of increased sales from Q2 to Q3 and Q3 to Q4 aligned with seasonal Back to School and Holiday Season shopping with a window of fatigue directly after Back to School and before Holiday Season. 
+	* The momentum of increased sales from Q2 to Q3 and Q3 to Q4 aligned with back-to-school and holiday season shopping with a window of fatigue directly after back-to-school and before holiday season. 
 + __Average Order Value__ 
 	* After a four-quarter increase in 2020, AOV decreased YoY for the following eight quarters. 
 	* Over the four years, AOV was higher the second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal sales. 
@@ -179,8 +179,9 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 </div>
 
 + Customers on average waited 92 days to make their first order after creating an account. 
-+ Affiliate marketing saw customers making their first order on average within 5 days. It was approximately 89 days for direct marketing. 
-+ Even though affiliate marketing only contributed 3% of total sales, it is important to highlight the channel saw a significantly higher turnaround in customer acquisition from potential customer to account creation to first purchase. 
++ Customers acquired through affiliate marketing placed their first order within an average of 5 days, but direct marketing recorded approximately 89 days.  
++ Even though affiliate marketing only contributed 3% of total sales, it is important to highlight affiliate marketing converted potential customers to their first purchase in an average of 5 days, the fastest conversation rate of all channels.
+
 
 <div align="center">
 	
@@ -191,14 +192,14 @@ Recommendations for Screen Zone based on deep dive insights:
 
 ### Marketing Strategy
 
-+ Prioritize developing other marketing channels to attract and reduce current overreliance on direct marketing.  
-	* Prioritize investment in targeted email campaigns and align them with seasonal trends to capitalize on back-to-school and holiday season peak sales.
-	* Strengthen current affiliate partnerships and develop more partnerships. The short customer acquisition journey discovered within the affiliate marketing channel demonstrated potential for further success. 
++ Prioritize developing other marketing channels to attract new customers and reduce current overreliance on direct marketing.  
+	* Prioritize investment in targeted email campaigns aligning with seasonal trends to capitalize on back-to-school and holiday season peak sales.
+	* Strengthen current affiliate partnerships and prioritize developing additional partnerships. The short customer acquisition journey discovered within the affiliate marketing channel demonstrates potential for further success. 
 	* Invest in further developing social media strategies due to their low performance.
 + Explore region specific targeted marketing across regions prioritizing APAC and LATAM. 
 	* APAC has untapped potential considering its high AOV. 
 	* LATAM has the greatest potential for increased sales. 
-+ Since 17% of customers ordered through the mobile app, an opportunity exists for increased marketing with notifications for discounts, app specific promotional deals, and advertising the loyalty program is important. 
++ Since 17% of customers ordered through the mobile app, an opportunity exists for increased marketing with notifications for discounts, app specific promotional deals, and advertising the loyalty program. 
 
 ### Products
 
@@ -216,6 +217,6 @@ Recommendations for Screen Zone based on deep dive insights:
 
 ### Loyalty Program
 
-+ The loyalty program should remain and receive continued investment as it saw high growth in its first two years and in the last two years returned higher total sales than non-members.
++ The loyalty program should remain and receive continued investment as it recorded high growth in its first two years and in the last two years returned higher total sales than non-members.
 + Prioritize converting repeat customers into loyalty members with targeted marketing of membership benefits and savings.  
 + Offer incentives to members who have only purchased non-premium products. 
