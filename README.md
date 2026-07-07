@@ -50,7 +50,7 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 # Executive Summary
 </div>
 
-	After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sales entered a prolonged decline ending in a particularly steep drop in Q4 2022. Despite a strong start in January 2021, **downward trends persisted through 2022** across all key performance indicators: a **46%** year-over-year decrease in total sales, a **10%** year-over-year decrease in average order value, and a **40%** year-over-year decrease in order count. While 2022 marked a return toward pre-pandemic levels, it still outperformed 2019 by **$1M**. The following sections explore NorthStar Metrics in detail and highlight opportunities for improvement.
+After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sales entered a prolonged decline ending in a particularly steep drop in Q4 2022. Despite a strong start in January 2021, **downward trends persisted through 2022** across all key performance indicators: a **46%** year-over-year decrease in total sales, a **10%** year-over-year decrease in average order value, and a **40%** year-over-year decrease in order count. While 2022 marked a return toward pre-pandemic levels, it still outperformed 2019 by **$1M**. The following sections explore NorthStar Metrics in detail and highlight opportunities for improvement.
 
 <div align="center">
 
