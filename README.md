@@ -39,6 +39,7 @@ This analysis reviews the following key **NorthStar Metrics:**
 </div>
 
 <div align="center">
+	
 ## Entity Relationship Diagram
 </div>
 
