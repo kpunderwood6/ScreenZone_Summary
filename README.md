@@ -124,6 +124,8 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 </div>
 
 <img width="1337" height="655" alt="image" src="https://github.com/user-attachments/assets/2af2ad39-c508-4844-be2b-e68bdc2f3180" />
+<img width="1160" height="209" alt="image" src="https://github.com/user-attachments/assets/bf6a844e-c8fb-470b-a30c-c60b8ae906ef" />
+
 <img width="1010" height="193" alt="image" src="https://github.com/user-attachments/assets/a86e34a1-a5b4-458e-af40-d2c7e6ad167e" />
 
 <div align="center">
