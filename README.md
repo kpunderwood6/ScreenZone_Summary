@@ -25,9 +25,9 @@ An in-depth analysis was completed to determine **Screen Zone's** performance an
 
 This analysis reviews the following key **NorthStar Metrics:**
 
-+ **Sales Trends:** Analyzing sales revenue, total number of orders, and average order value (AOV).
-+ **Region Analysis:** Determining each region's contribution to sales revenue to prioritize strong performers and develop potential.
-+ **Product Performance:** Determining best performing products to optimize the product line.
++ **Sales Trends:** Analyzing sales, total number of orders, and average order value (AOV).
++ **Region Analysis:** Determining each region's contribution to sales to prioritize strong performers and develop potential.
++ **Product Performance:** Determining the best performing products to optimize the product line.
 + **Marketing Analysis:** Evaluating current marketing channels to steer new development.
 + **Loyalty Program:** Assessing the success of the current loyalty program.
 + **Customer Acquisition:**  Understanding the company’s customer acquisition lifecycle.
@@ -52,12 +52,12 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 ## Data Quality 
 
 </div>
-The dataset contained instances of missing and erroneous data. The table below shows the magnitude of the inconsistencies that could not be resolved during the data cleaning process, but require collaboration with the appropriate team to correct.
+The dataset contained instances of missing and erroneous data. The table below shows the magnitude of the inconsistencies that could not be resolved during the data cleaning process, and require collaboration with the appropriate team to correct.
 
 <img width="850" height="20" alt="image" src="https://github.com/user-attachments/assets/11f46558-505d-4ddd-a8b0-412013f24e9f" />
 
 | Table | Field | Issue | Row Count | Magnitude|
-|---|---|---|---|---|
+|---|---|---|---:|---:|
 |Customers|	country_code|Missing Values	|140|0.13%|
 |Customers|	country_code|Country codes identified as "A1" and "EU"|19|0.02%|
 |Orders|currency|Missing Values|54|0.05%|
