@@ -109,7 +109,7 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 	* Over the four years, AOV was higher the second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal sales. 
 + __H2 had both the best and worst performing quarter.__
 	* Q4 2020 returned the highest sales of $3M from a 158% YoY increase from Q4 2019.
-	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter comparted to other quarters in the same year. 
+	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter compared to other quarters in the same year. 
 
 <img width="1332" height="208" alt="image" src="https://github.com/user-attachments/assets/93e69a69-13ee-4c9e-99eb-6152de961965" />
 
@@ -208,8 +208,7 @@ Recommendations for Screen Zone based on deep dive insights:
 	* 27in 4K Gaming Monitor performed particularly well each September. Shift focus to heavily market this product during the back-to-school season and ensure product placement is always prominent on the website. 
 	* ThinkPad Laptop showed more consistent growth of any product between February 2022 and October 2022. Promotions and marketing should capitalize on the high product AOV.
 + Consider bundling premium products with non-premium products. 
-	* Bose Headphones and Samsung Webcam are prime candidates for product bundles and add-on deals at customer checkout. 
-	* The MacBook Air Laptop and Apple AirPods Headphones are also candidates for budling. 
+	* The MacBook Air Laptop and Apple AirPods Headphones are prime candidates for bundling. 
 + Diversifying the product mix to include more moderately priced products could reduce dramatic fluctuations in total sales by decreasing reliance on the volume of premium product sales. 
 + Consider deprioritizing or phasing out specific products due to low sales.
 	* Bose Headphones and Samsung Webcam combined contributed approximately only 1% of sales. 
