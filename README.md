@@ -78,7 +78,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 + __Downward Trend to Pre-Pandemic Levels__
 	* 2022 sales growth decreased by 46% marking a return toward pre-pandemic levels, but still outperformed 2019 by $1M.
 	* Q4 2022 recorded an unprecedented 72% year-over-year decrease.
-1. __Quarterly Insights & Seasonal Trends__
+**1.** __Quarterly Insights & Seasonal Trends__
 	* Q3 and Q4 generally show strong performance likely due to back-to-school and holiday season shopping.
 	* Average order value was higher in Q3 and Q4 than in Q1 and Q2 every year confirming consistent seasonal demand. 
 1. ** Recommendations**
