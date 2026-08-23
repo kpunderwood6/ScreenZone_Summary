@@ -46,6 +46,7 @@ This analysis reviews the following key **North Star Metrics:**
 Screen Zone’s database structure consists of four tables: orders, customers, geo_lookup, and order_status.
 
 <img width="1352" height="928" alt="image" src="https://github.com/user-attachments/assets/4a39fae1-5313-44f3-8292-bd24fcc11c8d" />
+<img width="1100" height="676" alt="image" src="https://github.com/user-attachments/assets/4a39fae1-5313-44f3-8292-bd24fcc11c8d" />
 
 <div align="center">
 
