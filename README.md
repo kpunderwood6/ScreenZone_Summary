@@ -72,9 +72,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 # Insights Summary
 </div>
 
-After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sales entered a prolonged decline ending in a particularly steep drop in Q4 2022. Despite a strong start in January 2021, **downward trends persisted through 2022** across all key performance indicators: a **46%** year-over-year decrease in total sales, a **10%** year-over-year decrease in average order value, and a **40%** year-over-year decrease in order count. While 2022 marked a return toward pre-pandemic levels, it still outperformed 2019 by **$1M**. The following sections explore North Star Metrics in detail and highlight opportunities for improvement.
-
-+ __Sales Growth and Peak Performance__
+ __1. Sales Growth and Peak Performance__
 	* 2020 returned the highest total sales of $10.2M, a 163% year-over-year increase.
 	* Growth declined in 2021, but generated a solid $9.1M.
 + __Downward Trend to Pre-Pandemic Levels__
