@@ -73,6 +73,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 </div>
 
 **1. Sales Growth and Peak Performance**
+
 	* 2020 returned the highest total sales of $10.2M, a 163% year-over-year increase.
 	* Growth declined in 2021, but generated a solid $9.1M.
 
