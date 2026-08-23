@@ -55,7 +55,7 @@ Screen Zone’s database structure consists of four tables: orders, customers, g
 The dataset contained instances of missing and erroneous data. The table below shows the magnitude of the inconsistencies that could not be resolved during the data cleaning process, and require collaboration with the appropriate team to correct.
 
 <img width="850" height="20" alt="image" src="https://github.com/user-attachments/assets/11f46558-505d-4ddd-a8b0-412013f24e9f" />
-<img width="955" height="375" alt="image" src="https://github.com/user-attachments/assets/c6621649-e484-4bf4-a360-6819c6aba490" />
+<img width="1330" height="375" alt="image" src="https://github.com/user-attachments/assets/c6621649-e484-4bf4-a360-6819c6aba490" />
 
 | Table | Field | Issue | Row Count | Magnitude|
 |---|---|---|---:|---:|
