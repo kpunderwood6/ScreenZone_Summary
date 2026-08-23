@@ -80,6 +80,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 	* Q4 2022 recorded an unprecedented 72% year-over-year decrease.
 
 **1.** __Quarterly Insights & Seasonal Trends__
+	
 	* Q3 and Q4 generally show strong performance likely due to back-to-school and holiday season shopping.
 	* Average order value was higher in Q3 and Q4 than in Q1 and Q2 every year confirming consistent seasonal demand. 
 1. ** Recommendations**
