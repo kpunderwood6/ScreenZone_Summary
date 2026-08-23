@@ -72,11 +72,10 @@ The dataset contained instances of missing and erroneous data. The table below s
 # Insights Summary
 </div>
 
-__1. Sales Growth and Peak Performance__
+__+ Sales Growth and Peak Performance__
 	* 2020 returned the highest total sales of $10.2M, a 163% year-over-year increase.
 	* Growth declined in 2021, but generated a solid $9.1M.
-
-__2. Downward Trend to Pre-Pandemic Levels__
+__+ Downward Trend to Pre-Pandemic Levels__
 	* 2022 sales growth decreased by 46% marking a return toward pre-pandemic levels, but still outperformed 2019 by $1M.
 	* Q4 2022 recorded an unprecedented 72% year-over-year decrease.
 **3. Quarterly Insights & Seasonal Trends**
