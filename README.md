@@ -69,10 +69,25 @@ The dataset contained instances of missing and erroneous data. The table below s
 
 <div align="center">
 	
-# Executive Summary
+# Insights Summary
 </div>
 
 After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sales entered a prolonged decline ending in a particularly steep drop in Q4 2022. Despite a strong start in January 2021, **downward trends persisted through 2022** across all key performance indicators: a **46%** year-over-year decrease in total sales, a **10%** year-over-year decrease in average order value, and a **40%** year-over-year decrease in order count. While 2022 marked a return toward pre-pandemic levels, it still outperformed 2019 by **$1M**. The following sections explore North Star Metrics in detail and highlight opportunities for improvement.
+
++ __Sales Growth and Peak Performance__
+	* 2020 returned the highest total sales of $10.2M, a 163% year-over-year increase.
+	* Growth declined in 2021, but generated a solid $9.1M.
++ __Downward Trend to Pre-Pandemic Levels__
+	* 2022 sales growth decreased by 46% marking a return toward pre-pandemic levels, but still outperformed 2019 by $1M.
+	* Q4 2022 recorded an unprecedented 72% year-over-year decrease.
++ __Quarterly Insights & Seasonal Trends__
+	* Q3 and Q4 generally show strong performance likely due to back-to-school and holiday season shopping.
+	* Average order value was higher in Q3 and Q4 than in Q1 and Q2 every year confirming consistent seasonal demand. 
++ __Recommendations__
+	* Further investigate the steep decline in 2022 total sales specifically Q4.
+	* Continue to invest in and highlight high performing products.
+	* Diversify the product mix to include more moderately priced products potentially reducing dramatic sales fluctuations.
+	* Prioritize developing additional marketing channels to reduce dependency on direct marketing.
 
 <div align="center">
 
@@ -106,7 +121,7 @@ After peaking in **2020 from a 163% year-over-year increase**, Screen Zone's sal
 	* The momentum of increased sales from Q2 to Q3 and Q3 to Q4 aligned with back-to-school and holiday season shopping with a window of fatigue directly after back-to-school and before holiday season. 
 + __Average Order Value__ 
 	* After a four-quarter increase in 2020, AOV decreased YoY for the following eight quarters. 
-	* Over the four years, AOV was higher the second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming seasonal sales. 
+	* Over the four years, AOV was higher the second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming consistent seasonal demand.  
 + __H2 had both the best and worst performing quarter.__
 	* Q4 2020 returned the highest sales of $3M from a 158% YoY increase from Q4 2019.
 	* Two years later Q4 2022 saw the highest YoY decrease of 72% returning the lowest quarterly sales of $649K. This was an unprecedented contraction considering Q4 was consistently one of or the best performing quarter compared to other quarters in the same year. 
@@ -217,6 +232,6 @@ Recommendations for Screen Zone based on deep dive insights:
 
 ### Loyalty Program
 
-+ The loyalty program should remain and receive continued investment as it recorded high growth in its first two years and in the last two years returned higher total sales than non-members.
++ Given its growth the first two years and higher total sales the last two, the loyalty program should receive continued investment with close monitoring.
 + Prioritize converting repeat customers into loyalty members with targeted marketing of membership benefits and savings.  
 + Offer incentives to members who have only purchased non-premium products. 
