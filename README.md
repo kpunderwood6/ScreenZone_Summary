@@ -57,8 +57,6 @@ The dataset contained instances of missing and erroneous data. The table below s
 <img width="850" height="20" alt="image" src="https://github.com/user-attachments/assets/11f46558-505d-4ddd-a8b0-412013f24e9f" />
 <img width="975" height="375" alt="image" src="https://github.com/user-attachments/assets/3454a2b6-600b-4236-ad9a-53abb65dfe48" />
 
-<img width="1330" height="375" alt="image" src="https://github.com/user-attachments/assets/c6621649-e484-4bf4-a360-6819c6aba490" />
-
 | Table | Field | Issue | Row Count | Magnitude|
 |---|---|---|---:|---:|
 |Customers|	country_code|Missing Values	|140|0.13%|
