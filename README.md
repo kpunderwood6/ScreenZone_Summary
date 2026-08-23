@@ -72,16 +72,16 @@ The dataset contained instances of missing and erroneous data. The table below s
 # Insights Summary
 </div>
 
-__+ Sales Growth and Peak Performance__
++ __Sales Growth and Peak Performance__
 	* 2020 returned the highest total sales of $10.2M, a 163% year-over-year increase.
 	* Growth declined in 2021, but generated a solid $9.1M.
-__+ Downward Trend to Pre-Pandemic Levels__
++ __Downward Trend to Pre-Pandemic Levels__
 	* 2022 sales growth decreased by 46% marking a return toward pre-pandemic levels, but still outperformed 2019 by $1M.
 	* Q4 2022 recorded an unprecedented 72% year-over-year decrease.
-**3. Quarterly Insights & Seasonal Trends**
+1. __Quarterly Insights & Seasonal Trends__
 	* Q3 and Q4 generally show strong performance likely due to back-to-school and holiday season shopping.
 	* Average order value was higher in Q3 and Q4 than in Q1 and Q2 every year confirming consistent seasonal demand. 
-**4. Recommendations**
+1. ** Recommendations**
 	* Further investigate the steep decline in 2022 total sales specifically Q4.
 	* Continue to invest in and highlight high performing products.
 	* Diversify the product mix to include more moderately priced products potentially reducing dramatic sales fluctuations.
