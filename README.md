@@ -89,7 +89,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 
 <div align="center">
 
-# Deep Dive Insights
+# Insights Deep Dive
 </div>
 
 <div align="center">
