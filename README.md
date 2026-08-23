@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## Client Profile 
+## Client Background 
 </div>
 
 **Screen Zone** is a global e-commerce company founded in 2018 selling popular electronics products. Expanding globally, tapping into multiple marketing channels, increasing their product offering, and a consistently competitive market developed a new need to understand their presence in the e-commerce market. 
