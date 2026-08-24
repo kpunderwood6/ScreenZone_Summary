@@ -135,6 +135,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 
 ## Region Analysis
 </div>
+<img width="1332" height="652" alt="image" src="https://github.com/user-attachments/assets/eab45a05-34aa-4e6b-b079-766f4b26b96c" />
 
 + __North America and Europe, Middle East, and Africa were the top performing regions.__
 	* North America averaged 52% of total sales every year, peaking at 55% in 2022.
