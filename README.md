@@ -138,14 +138,14 @@ The dataset contained instances of missing and erroneous data. The table below s
 <img width="1332" height="652" alt="image" src="https://github.com/user-attachments/assets/eab45a05-34aa-4e6b-b079-766f4b26b96c" />
 
 + __North America and Europe, Middle East, and Africa were the top performing regions.__
-	* North America averaged 52% of total sales every year, peaking at 55% in 2022.
-	* EMEA ranked second, averaging 29% of total sales each year, peaking at 30% in 2021.
+	* North America averaged 52% of total sales peaking at 55% in 2022.
+	* EMEA ranked second averaging 29% of total sales and peaked at 30% in 2021.
 + __Average Order Value Performance__
-	* Although APAC ranked third in overall sales, its AOV was higher than North America’s each year from 2020-2022, peaking at $317 in 2020.
+	* Although APAC ranked third in overall sales, its AOV was higher than North America’s each year from 2020-2022 peaking at $317 in 2020.
 	* APAC also recorded the highest AOV over the four-year period of $279 compared to North America’s $260.
 	* While total sales declined back to pre-pandemic levels in 2022, APAC and EMEA still generated higher AOVs in 2022 than 2019, but LATAM and North America’s AOVs dropped below their 2019 baseline.
 + __Regional Callout__
-	* In LATAM, sales have underperformed, averaging only 6% of total sales with a $625K peak in 2020. 
+	* In LATAM, sales have underperformed averaging only 6% of total sales with a $625K total sales peak in 2020. 
 
 <div align="center">
 	
@@ -155,13 +155,13 @@ The dataset contained instances of missing and erroneous data. The table below s
 <img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
 
 + __Top Performers__
-	* The 27in 4K Gaming Monitor ranked as the top performing product, generating $9.8M in total sales across all four years.
-	* Apple AirPods Headphones received the most orders, generating $7.7M in total sales.
+	* The 27in 4K Gaming Monitor ranked as the top performing product generating $9.8M in total sales across all four years.
+	* Apple AirPods Headphones received the most orders and recorded $7.7M in total sales.
 	* MacBook Air Laptop ranked third with $6.38M in total sales and the highest AOV of $1,588.
-	* ThinkPad Laptop ranked fourth, generating $3.2M in total sales despite having the second highest AOV of $1,100.
+	* ThinkPad Laptop ranked fourth returning $3.2M in total sales despite having the second highest AOV of $1,100.
 + __Key Indicators__
-	* Premium product sales drove 2020 growth, with MacBook Air Laptop sales increasing 384% and ThinkPad Laptop sales increasing 222%. This level of growth was not sustainable, as both products declined significantly in 2021 while lower-priced products like the Samsung Webcam grew 134%.
-	* 20% of customers returned to make another purchase, with 76% of those repeat purchases concentrated in the 27in 4K Gaming Monitor and Apple AirPods Headphones.
+	* Premium product sales drove 2020 growth with MacBook Air Laptop sales increasing 384% and ThinkPad Laptop sales increasing 222%. This level of growth was not sustainable becuase both products declined significantly in 2021 while lower-priced products like the Samsung Webcam grew 134%.
+	* 20% of customers returned to make another purchase with 76% of those repeat purchases comprised of the 27in 4K Gaming Monitor and Apple AirPods Headphones.
 + __Brand Surprises__
 	* Apple experienced a notable contrast between products. The AirPods Headphones were the most ordered product, but the Apple iPhone generated only $213K in total sales, which is unusually low for an Apple product in an electronics line.
 	* The Samsung Webcam, which received zero orders in 2019, outperformed the Apple iPhone by $150K. In addition, loyalty program members did not purchase the Apple iPhone during the four-year period.
@@ -213,7 +213,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 
 + Customers on average waited 92 days to make their first order after creating an account. 
 + Customers acquired through affiliate marketing placed their first order within an average of 5 days, but direct marketing recorded approximately 89 days.  
-+ Even though affiliate marketing only contributed 3% of total sales, it is important to highlight affiliate marketing converted potential customers to their first purchase in an average of 5 days, the fastest conversation rate of all channels.
++ Even though affiliate marketing only contributed 3% of total sales, it is important to highlight affiliate marketing converted potential customers to their first purchase in an average of 5 days, which was the fastest conversation rate of all channels.
 
 
 <div align="center">
@@ -225,7 +225,7 @@ Recommendations for Screen Zone based on deep dive insights:
 
 ### Marketing Strategy
 
-+ Prioritize developing other marketing channels to attract new customers and reduce current overreliance on direct marketing.  
++ Prioritize developing other marketing channels to attract new customers and reduce current over reliance on direct marketing.  
 	* Prioritize investment in targeted email campaigns aligning with seasonal trends to capitalize on back-to-school and holiday season peak sales.
 	* Strengthen current affiliate partnerships and prioritize developing additional partnerships. The short customer acquisition journey and high AOV discovered within the affiliate marketing channel demonstrates potential for further success. 
 	* Invest in further developing social media strategies due to their low performance.
