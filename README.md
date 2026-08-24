@@ -139,6 +139,16 @@ The dataset contained instances of missing and erroneous data. The table below s
 <img width="1337" height="655" alt="image" src="https://github.com/user-attachments/assets/2af2ad39-c508-4844-be2b-e68bdc2f3180" />
 <img width="1009" height="209" alt="image" src="https://github.com/user-attachments/assets/bf6a844e-c8fb-470b-a30c-c60b8ae906ef" />
 
++ __North America and Europe, Middle East, and Africa were the top performing regions.__  
+	*North America averaged 52% of total sales every year, peaking at 55% in 2022.
+	*EMEA ranked second, averaging 29% of total sales each year and peaking at 30% in 2021.
++ __Average Order Value Performance__  
+	*Although APAC ranked third in overall sales, its AOV was higher than North America’s each year from 2020-2022, peaking at $317 in 2020.
+	*APAC also recorded the highest AOV over the four-year period of $279 compared to North America’s $260.
+	*While total sales declined back to pre-pandemic levels in 2022, APAC and EMEA still generated higher AOVs in 2022 than 2019, but LATAM and North America’s AOVs dropped below their 2019 baseline.
++ __Regional Callout__  
+	*In LATAM, sales have underperformed, averaging only 6% of total sales with a $625K peak in 2020. 
+
 <div align="center">
 	
 ## Product Performance
