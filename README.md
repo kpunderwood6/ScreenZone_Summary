@@ -113,10 +113,10 @@ The dataset contained instances of missing and erroneous data. The table below s
 
 <img width="1330" height="649" alt="image" src="https://github.com/user-attachments/assets/b87b0a75-b9a6-4202-abbf-1516306745c8" />
 
-+ __H2 drives total sales in comparison to less profitable H1.__
-	* Q4 to Q1 and Q1 to Q2 QoQ sales decreased every year except quarters that aligned with the pandemic.  This decrease echoed in MoM sales as well from December to January and January to February. 
-	* Q2 to Q3 and Q3 to Q4 QoQ sales increased every year except 2022 and a minor 1% decrease from Q3 2021 to Q4 2021. This momentum was disrupted due to September to October MoM decreases every year with a high of 55% in 2022, a $220K drop; however, sales increased MoM from October to November and from November to December every year.
-	* The momentum of increased sales from Q2 to Q3 and Q3 to Q4 aligned with back-to-school and holiday season shopping with a window of fatigue directly after back-to-school and before holiday season. 
++ __H2 generally outperformed H1 in total sales.__
+	* Quarter-over-quarter sales declined from Q4 to Q1 and Q1 to Q2 each year, a pattern that also appeared month-over-month from December through February. This trend was generally consistent with the exception of 2020 where pandemic-driven demand disrupted this pattern.
+	* Q2 to Q3 and Q3 to Q4 sales increased every year except 2022 and a minor 1% decrease from Q3 2021 to Q4 2021. This upward momentum was interrupted by a recurring September to October decrease each year reaching as high as 55% in 2022; however, sales recovered month-over-month from October through December each year.
+	* This H2 pattern aligns with back-to-school and holiday season shopping with the September to October dip suggesting a potential period of softened demand between the two seasons.
 + __Average Order Value__ 
 	* After a four-quarter increase in 2020, AOV decreased YoY for the following eight quarters. 
 	* Over the four years, AOV was higher the second half of the year, Q3 ($261) and Q4 ($265) then in the first half, Q1 ($258) and Q2 ($255) confirming consistent seasonal demand.  
@@ -187,10 +187,11 @@ The dataset contained instances of missing and erroneous data. The table below s
 
 <img width="1335" height="482" alt="image" src="https://github.com/user-attachments/assets/000f1f71-95d3-42c3-817e-79d35b9daa42" />
 
-+ Direct marketing was the primary force in generating sales across all regions averaging 83% of total sales. Although, there has been a YoY decline starting at 86% to 76%. 
-+ Email marketing’s share of total sales increased each year reaching 16% in 2022 doubling from 8% in 2019. Email was more successful in LATAM and NA with 13% of sales from those campaigns whereas APAC saw 11% and EMEA saw 9%.
-+ Affiliate marketing performed better within NA at 4% and EMEA at 3%, but in LATAM and APAC it returned approximately 1%.
-+ Social Media marketing consistently yielded minimal results across all regions. 
++ Direct marketing was the primary driver of sales across all regions averaging 83% of total sales over the four-year period.
++ Email marketing grew each year reaching 16% of total sales in 2022, up from 8% in 2019. Performance varied by region with LATAM and North America leading at 13% of sales from email campaigns followed by APAC at 11% and EMEA at 9%.
++ Affiliate marketing performed strongest in North America at 4% and EMEA at 3%, while LATAM and APAC each recorded approximately 1%. Nonetheless, affiliate marketing recorded the highest AOV at $303 suggesting it tends to attract higher-spending customers.
++ Social media marketing averaged 1% of total sales over the four-year period consistently yielding minimal results across all regions.
++ Orders without an identified marketing channel saw significant spikes, growing 1,493% in 2020 and 368% in 2022.
 
 <div align="center">
 	
@@ -226,13 +227,14 @@ Recommendations for Screen Zone based on deep dive insights:
 
 + Prioritize developing other marketing channels to attract new customers and reduce current overreliance on direct marketing.  
 	* Prioritize investment in targeted email campaigns aligning with seasonal trends to capitalize on back-to-school and holiday season peak sales.
-	* Strengthen current affiliate partnerships and prioritize developing additional partnerships. The short customer acquisition journey discovered within the affiliate marketing channel demonstrates potential for further success. 
+	* Strengthen current affiliate partnerships and prioritize developing additional partnerships. The short customer acquisition journey and high AOV discovered within the affiliate marketing channel demonstrates potential for further success. 
 	* Invest in further developing social media strategies due to their low performance.
 + Explore region specific targeted marketing across regions prioritizing APAC and LATAM. 
 	* APAC has untapped potential considering its high AOV. 
 	* LATAM has the greatest potential for increased sales. 
 + Since 17% of customers ordered through the mobile app, an opportunity exists for increased marketing with notifications for discounts, app specific promotional deals, and advertising the loyalty program. 
-
++ Identify and resolve the source of orders without an attributed marketing channel to capture accurate channel performance.
+  
 ### Products
 
 + Continue to invest in and highlight high performing products.
