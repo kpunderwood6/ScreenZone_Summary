@@ -153,8 +153,20 @@ The dataset contained instances of missing and erroneous data. The table below s
 </div>
 
 <img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
+test
 <img width="1160" height="610" alt="image" src="https://github.com/user-attachments/assets/603c0193-b1c8-41a0-af5d-531b5efe3072" />
 
++ __Top Performers__
+	* The 27in 4K Gaming Monitor ranked as the top performing product, generating $9.8M in total sales across all four years.
+	* Apple AirPods Headphones received the most orders, generating $7.7M in total sales.
+	* MacBook Air Laptop ranked third with $6.38M in total sales and the highest AOV of $1,588.
+	* ThinkPad Laptop ranked fourth, generating $3.2M in total sales despite having the second highest AOV of $1,100.
++ __Key Indicators__
+	* Premium product sales drove 2020 growth, with MacBook Air Laptop sales increasing 384% and ThinkPad Laptop sales increasing 222%. This level of growth was not sustainable, as both products declined significantly in 2021 while lower-priced products like the Samsung Webcam grew 134%.
+	* 20% of customers returned to make another purchase, with 76% of those repeat purchases concentrated in the 27in 4K Gaming Monitor and Apple AirPods Headphones.
++ __Brand Surprises__
+	* Apple experienced a notable contrast between products. The AirPods Headphones were the most ordered product, but the Apple iPhone generated only $213K in total sales, which is unusually low for an Apple product in an electronics line.
+	* The Samsung Webcam, which received zero orders in 2019, outperformed the Apple iPhone by $150K. In addition, loyalty program members did not purchase the Apple iPhone during the four-year period.
 
 <div align="center">
 	
