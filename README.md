@@ -159,7 +159,7 @@ The dataset contained instances of missing and erroneous data. The table below s
 	* The MacBook Air Laptop and the ThinkPad Laptop were consistently the most returned products each year with the Apple iPhone and 27in 4K Gaming Monitor alternating for third and fourth place.
 	* The MacBook Air Laptop had the highest product return rate of 18% in 2019, but each year it decreased.
 	* Loyalty members did not return MacBook Air Laptops, a notable difference between members and non-loyalty members. 
-+ Non premium products recorded return rates of 3% or less.
++ Non-premium products recorded return rates of 3% or less.
 <img width="1332" height="650" alt="image" src="https://github.com/user-attachments/assets/fa1ac367-b832-4d15-b1f0-0f029ae7403b" />
 
 <div align="center">
