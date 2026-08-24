@@ -153,8 +153,6 @@ The dataset contained instances of missing and erroneous data. The table below s
 </div>
 
 <img width="1333" height="739" alt="image" src="https://github.com/user-attachments/assets/29d49ff6-a8df-4e44-a91a-482ffa91d131" />
-test
-<img width="1160" height="610" alt="image" src="https://github.com/user-attachments/assets/603c0193-b1c8-41a0-af5d-531b5efe3072" />
 
 + __Top Performers__
 	* The 27in 4K Gaming Monitor ranked as the top performing product, generating $9.8M in total sales across all four years.
